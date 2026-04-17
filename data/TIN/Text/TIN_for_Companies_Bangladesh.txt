@@ -1,0 +1,106 @@
+Introduction
+#
+
+The Taxpayer Identification Number (TIN) is a mandatory unique identifier for companies operating within Bangladesh, essential for all tax-related compliance and transactions. As mandated by the Income Tax Act, 2023 [§Income Tax Act 2023], every company must secure a TIN. This system facilitates the National Board of Revenue (NBR) in effectively administering tax laws, monitoring compliance, and ensuring transparency in corporate financial activities. Obtaining a TIN is a foundational step for legal business operation and engagement with the national tax framework.
+
+Legal Framework and Issuing Authority
+#
+
+The National Board of Revenue (NBR) is the sole governmental authority responsible for the issuance and administration of TINs in Bangladesh. The process is managed through a dedicated online portal, reflecting the government’s initiative towards digital service delivery.
+
+Issuing Authority: National Board of Revenue (NBR)
+Address: Segun Bagicha, Dhaka-1000
+Website: www.nbr.gov.bd
+Relevant Portal: incometax.gov.bd
+Contact Emails: feedbacktax@nbr.gov.bd, feedbackvat@nbr.gov.bd, feedbackcustoms@nbr.gov.bd
+Information Required for Application
+#
+
+To successfully apply for a company TIN via the online portal, the following key information is necessary:
+
+Company’s registered name (as per RJSC registration).
+Incorporation number and date (obtained from the Registrar of Joint Stock Companies and Firms - RJSC).
+Registered address of the company.
+Name of the authorised person (e.g., Managing Director, Chairman, or other designated representative).
+A unique mobile phone number (used for account verification and communication; typically one number per user ID).
+A valid email address for communication and certificate delivery.
+
+Note: While document uploads might not always be required during the initial online application, having incorporation documents readily available is advisable.
+
+Application Process Overview
+#
+
+The TIN application for companies is conducted entirely online and is designed for expediency.
+
+Start: Access NBR e-TIN Portal (incometax.gov.bd)
+
+Initiate Registration ('Register' Button)
+
+Enter Basic Company Info & Mobile Number
+
+Receive Activation Code via SMS
+
+Enter Activation Code to Verify Mobile
+
+Complete Detailed Online Application Form
+
+Review Application Summary
+
+Submit Final Application
+
+System Generates TIN Certificate Instantly
+
+Download/Print TIN Certificate & Save User ID/Password
+
+End: Company TIN Obtained
+
+Step 1: Portal Access and Initial Registration
+#
+
+Navigate to the NBR’s e-TIN portal (incometax.gov.bd). Initiate the registration process by providing basic company details and the designated mobile number.
+
+Step 2: Activation and Form Completion
+#
+
+An activation code will be sent via SMS to the provided mobile number. Enter this code on the portal to verify the number and proceed. Log in using the created credentials and meticulously complete the online application form, ensuring all company details are accurate as per RJSC records.
+
+Step 3: Submission and Certificate Generation
+#
+
+Review the completed application summary for accuracy. Upon final submission, the NBR system automatically processes the information and instantly generates the TIN certificate (e-TIN).
+
+Step 4: Download and Record Keeping
+#
+
+The e-TIN certificate becomes available for immediate download and printing directly from the portal. A copy is typically also sent to the registered email address. It is crucial to securely save the user ID and password created during registration for future access to the TIN account.
+
+Fees and Timelines
+#
+Government Fee: There are no official government fees for obtaining a TIN.
+Processing Time: The online process is highly efficient. Barring technical issues, the TIN certificate is typically generated within 15-20 minutes of successful application submission.
+Validity: The TIN is a permanent number and does not require periodic renewal.
+Importance and Compliance
+#
+
+Possessing a valid TIN is indispensable for numerous essential business activities in Bangladesh, including, but not limited to:
+
+Opening and operating corporate bank accounts.
+Filing annual income tax returns and other tax-related submissions.
+Obtaining various business licences and permits.
+Participating in government tenders and procurement processes.
+Import and export activities.
+
+Failure to obtain a TIN when required constitutes non-compliance with the Income Tax Act, 2023, potentially leading to penalties, operational impediments, and difficulties in conducting routine business transactions.
+
+For related information, please refer to our guides on Company Incorporation and general Tax Compliance.
+
+Key Contact
+
+For professional assistance with TIN registration, tax planning, or navigating compliance requirements in Bangladesh, please contact:
+
+Habib Morshed
+Phone: +8801678148367
+Email: morshed@ogrlegal.com
+Sazzad Hossain
+Phone: +8801682571960
+Email: Sazzad@ogrlegal.com
