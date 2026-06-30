@@ -1,0 +1,1492 @@
+[
+  {
+    "id": "nid_000137",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "লন্ডনে NID যাচাই প্রক্রিয়া কে করে?",
+    "content": "বাংলাদেশের সংশ্লিষ্ট উপজেলা নির্বাচন অফিস যাচাই প্রক্রিয়া সম্পন্ন করে।",
+    "questions": [
+      "লন্ডনে NID যাচাই প্রক্রিয়া কে করে?"
+    ],
+    "keywords": [
+      "লন্ডনে",
+      "প্রক্রিয়া",
+      "যাচাই",
+      "করে",
+      "NID",
+      "কে"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000108",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "NID নতুন ভোটার হওয়ার জন্য কী কী লাগে?",
+    "content": "এসএসসি সনদ, জন্ম নিবন্ধন, পাসপোর্ট বা ড্রাইভিং লাইসেন্স, ঠিকানা প্রমাণ, নাগরিকত্ব সনদ এবং পিতামাতার NID কপি প্রয়োজন হতে পারে।",
+    "questions": [
+      "NID নতুন ভোটার হওয়ার জন্য কী কী লাগে?"
+    ],
+    "keywords": [
+      "হওয়ার",
+      "কী",
+      "লাগে",
+      "জন্য",
+      "ভোটার",
+      "NID",
+      "নতুন"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000182",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "ফরম-২ক তথ্য যাচাই কে করে?",
+    "content": "সংশ্লিষ্ট উপজেলা/থানা নির্বাচন অফিসার সরেজমিন তদন্ত করে তথ্য যাচাই করেন।",
+    "questions": [
+      "ফরম-২ক তথ্য যাচাই কে করে?"
+    ],
+    "keywords": [
+      "তথ্য",
+      "যাচাই",
+      "ফরম",
+      "২ক",
+      "করে",
+      "কে"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000190",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "একাধিক পৃষ্ঠা থাকলে কী করতে হয়?",
+    "content": "একাধিক পৃষ্ঠা থাকলে '+' বাটনে ক্লিক করে অতিরিক্ত পৃষ্ঠা আপলোড করতে হয়।",
+    "questions": [
+      "একাধিক পৃষ্ঠা থাকলে কী করতে হয়?"
+    ],
+    "keywords": [
+      "একাধিক",
+      "থাকলে",
+      "কী",
+      "করতে",
+      "হয়",
+      "পৃষ্ঠা"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000084",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "Expatriate",
+    "title": "প্রবাসী ভোটার নিবন্ধনের আবেদন ফি কত?",
+    "content": "এই সেবার জন্য সাধারণত কোনো ফি লাগে না।",
+    "questions": [
+      "প্রবাসী ভোটার নিবন্ধনের আবেদন ফি কত?"
+    ],
+    "keywords": [
+      "আবেদন",
+      "কত",
+      "প্রবাসী",
+      "নিবন্ধনের",
+      "ফি",
+      "ভোটার"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000187",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "NID সত্যায়নের জন্য কী ডকুমেন্ট লাগে?",
+    "content": "NID সত্যায়নের জন্য জাতীয় পরিচয়পত্রের নোটারিকৃত স্ক্যান কপি প্রয়োজন।",
+    "questions": [
+      "NID সত্যায়নের জন্য কী ডকুমেন্ট লাগে?"
+    ],
+    "keywords": [
+      "ডকুমেন্ট",
+      "কী",
+      "লাগে",
+      "জন্য",
+      "NID",
+      "সত্যায়নের"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000233",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "এনআইডিতে নামের আগে পদবী, উপাধি বা খেতাব যুক্ত করা যায় কি?",
+    "content": "না। জাতীয় পরিচয়পত্রে কোনো নামের পূর্বে পদবী, উপাধি বা খেতাব সংযুক্ত করা যায় না।",
+    "questions": [
+      "এনআইডিতে নামের আগে পদবী, উপাধি বা খেতাব যুক্ত করা যায় কি?"
+    ],
+    "keywords": [
+      "কি",
+      "এনআইডিতে",
+      "করা",
+      "বা",
+      "আগে",
+      "খেতাব",
+      "যায়",
+      "উপাধি"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000295",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "Contact",
+    "title": "বরিশাল আঞ্চলিক নির্বাচন অফিসের যোগাযোগ নম্বর কত?",
+    "content": "বরিশাল আঞ্চলিক নির্বাচন অফিসের যোগাযোগ নম্বর: 0431-640।",
+    "questions": [
+      "বরিশাল আঞ্চলিক নির্বাচন অফিসের যোগাযোগ নম্বর কত?"
+    ],
+    "keywords": [
+      "নম্বর",
+      "কত",
+      "আঞ্চলিক",
+      "যোগাযোগ",
+      "নির্বাচন",
+      "বরিশাল",
+      "অফিসের"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000289",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "Contact",
+    "title": "ঢাকা আঞ্চলিক নির্বাচন অফিসের যোগাযোগ নম্বর কত?",
+    "content": "ঢাকা আঞ্চলিক নির্বাচন অফিসের যোগাযোগ নম্বর: 02-8181024।",
+    "questions": [
+      "ঢাকা আঞ্চলিক নির্বাচন অফিসের যোগাযোগ নম্বর কত?"
+    ],
+    "keywords": [
+      "নম্বর",
+      "কত",
+      "আঞ্চলিক",
+      "যোগাযোগ",
+      "নির্বাচন",
+      "অফিসের",
+      "ঢাকা"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000052",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "বিদেশে গেলে কি অন্য কেউ আমার NID তুলতে পারবে?",
+    "content": "অনলাইন থেকে আপনি নিজেই NID ডাউনলোড করতে পারবেন।",
+    "questions": [
+      "বিদেশে গেলে কি অন্য কেউ আমার NID তুলতে পারবে?"
+    ],
+    "keywords": [
+      "পারবে",
+      "কি",
+      "কেউ",
+      "বিদেশে",
+      "তুলতে",
+      "গেলে",
+      "অন্য",
+      "NID"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000309",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "Contact",
+    "title": "খুলনা আঞ্চলিক নির্বাচন অফিসের যোগাযোগ নম্বর কত?",
+    "content": "খুলনা আঞ্চলিক নির্বাচন অফিসের যোগাযোগ নম্বর: 041-760249।",
+    "questions": [
+      "খুলনা আঞ্চলিক নির্বাচন অফিসের যোগাযোগ নম্বর কত?"
+    ],
+    "keywords": [
+      "নম্বর",
+      "কত",
+      "খুলনা",
+      "আঞ্চলিক",
+      "যোগাযোগ",
+      "নির্বাচন",
+      "অফিসের"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000279",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "এনআইডি নবায়নের সময় কি ফি পরিশোধ করতে হয়?",
+    "content": "হ্যাঁ। এনআইডি নবায়নের জন্য নির্ধারিত ফি পরিশোধ করতে হয়।",
+    "questions": [
+      "এনআইডি নবায়নের সময় কি ফি পরিশোধ করতে হয়?"
+    ],
+    "keywords": [
+      "কি",
+      "নবায়নের",
+      "হয়",
+      "করতে",
+      "এনআইডি",
+      "ফি",
+      "সময়",
+      "পরিশোধ"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000149",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "দুবাই কনস্যুলেটে NID এর জন্য কী কী ডকুমেন্ট লাগে?",
+    "content": "অনলাইন আবেদন ফর্ম-২ক, ১৭ ডিজিট জন্ম নিবন্ধন, পাসপোর্ট, ছবি এবং প্রয়োজনীয় অন্যান্য পরিচয়পত্র লাগে।",
+    "questions": [
+      "দুবাই কনস্যুলেটে NID এর জন্য কী কী ডকুমেন্ট লাগে?"
+    ],
+    "keywords": [
+      "দুবাই",
+      "ডকুমেন্ট",
+      "কী",
+      "লাগে",
+      "জন্য",
+      "কনস্যুলেটে",
+      "এর",
+      "NID"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000117",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "টোকিও দূতাবাসে NID এর জন্য কী কী ধাপে আবেদন করতে হয়?",
+    "content": "ধাপ ১ অনলাইন আবেদন, ধাপ ২ অ্যাপয়েন্টমেন্ট, ধাপ ৩ দূতাবাসে বায়োমেট্রিক এনরোলমেন্ট, ধাপ ৪ কার্ড প্রস্তুত হলে ডাউনলোড বা সংগ্রহ।",
+    "questions": [
+      "টোকিও দূতাবাসে NID এর জন্য কী কী ধাপে আবেদন করতে হয়?"
+    ],
+    "keywords": [
+      "আবেদন",
+      "কী",
+      "টোকিও",
+      "দূতাবাসে",
+      "জন্য",
+      "করতে",
+      "ধাপে",
+      "এর"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000024",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "বিয়ের পর স্বামীর নাম সংযোজন কিভাবে করা যায়?",
+    "content": "নিকাহনামা ও স্বামীর NID কপি সংযুক্ত করে অনলাইন বা সংশ্লিষ্ট নির্বাচন অফিসে আবেদন করতে হয়।",
+    "questions": [
+      "বিয়ের পর স্বামীর নাম সংযোজন কিভাবে করা যায়?"
+    ],
+    "keywords": [
+      "নাম",
+      "পর",
+      "কিভাবে",
+      "স্বামীর",
+      "করা",
+      "যায়",
+      "বিয়ের",
+      "সংযোজন"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000036",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "NID তে অন্য ব্যক্তির তথ্য চলে এলে কী করবো?",
+    "content": "প্রমাণপত্রসহ আবেদন করে বায়োমেট্রিক যাচাইয়ের মাধ্যমে সংশোধন করা হয়।",
+    "questions": [
+      "NID তে অন্য ব্যক্তির তথ্য চলে এলে কী করবো?"
+    ],
+    "keywords": [
+      "করবো",
+      "চলে",
+      "এলে",
+      "তথ্য",
+      "কী",
+      "অন্য",
+      "ব্যক্তির",
+      "তে"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000099",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "Expatriate",
+    "title": "প্রবাসী ভোটার নিবন্ধনে ফি লাগে কি?",
+    "content": "না, এই সেবার জন্য সাধারণত কোনো ফি লাগে না।",
+    "questions": [
+      "প্রবাসী ভোটার নিবন্ধনে ফি লাগে কি?"
+    ],
+    "keywords": [
+      "কি",
+      "প্রবাসী",
+      "নিবন্ধনে",
+      "লাগে",
+      "ফি",
+      "ভোটার"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000186",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "Expatriate",
+    "title": "প্রবাসী ভোটার নিবন্ধনে কতজন প্রত্যয়নকারী লাগে?",
+    "content": "তিনজন বাংলাদেশি NID ধারী ব্যক্তি প্রত্যয়নকারী হিসেবে প্রয়োজন হয়।",
+    "questions": [
+      "প্রবাসী ভোটার নিবন্ধনে কতজন প্রত্যয়নকারী লাগে?"
+    ],
+    "keywords": [
+      "প্রত্যয়নকারী",
+      "প্রবাসী",
+      "নিবন্ধনে",
+      "লাগে",
+      "ভোটার",
+      "কতজন"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000151",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "দুবাই কনস্যুলেটে NID ফি লাগে কি?",
+    "content": "না, NID আবেদন প্রক্রিয়ার জন্য সাধারণত কোনো ফি লাগে না।",
+    "questions": [
+      "দুবাই কনস্যুলেটে NID ফি লাগে কি?"
+    ],
+    "keywords": [
+      "দুবাই",
+      "কি",
+      "লাগে",
+      "ফি",
+      "কনস্যুলেটে",
+      "NID"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000041",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "Correction",
+    "title": "একটি NID কতবার সংশোধন করা যায়?",
+    "content": "একই তথ্য সাধারণত একবারই সংশোধন করা যায় এবং যুক্তিযুক্ত না হলে আবেদন গ্রহণযোগ্য হয় না।",
+    "questions": [
+      "একটি NID কতবার সংশোধন করা যায়?"
+    ],
+    "keywords": [
+      "একটি",
+      "করা",
+      "যায়",
+      "কতবার",
+      "NID",
+      "সংশোধন"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000194",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "আবেদন করার পর কী পাওয়া যায়?",
+    "content": "আবেদন করার পর একটি ট্র্যাকিং নম্বর দেওয়া হয়, যা দিয়ে আবেদন ট্র্যাক করা যায়।",
+    "questions": [
+      "আবেদন করার পর কী পাওয়া যায়?"
+    ],
+    "keywords": [
+      "পর",
+      "আবেদন",
+      "কী",
+      "যায়",
+      "পাওয়া",
+      "করার"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000064",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "NID ফর্মের জন্য কি কোনো ফি লাগে?",
+    "content": "না, কোনো ফি লাগে না।",
+    "questions": [
+      "NID ফর্মের জন্য কি কোনো ফি লাগে?"
+    ],
+    "keywords": [
+      "কি",
+      "কোনো",
+      "লাগে",
+      "জন্য",
+      "ফি",
+      "ফর্মের",
+      "NID"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000275",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "সঠিক কাগজপত্র জমা দিলে এনআইডিতে পেশা পরিবর্তনের আবেদন নিষ্পত্তি হতে সাধারণত কত সময় লাগে?",
+    "content": "সাধারণত সঠিক কাগজপত্র জমা দিলে ১৫ থেকে ৩০ কর্মদিবসের মধ্যে আবেদন নিষ্পত্তি হতে পারে।",
+    "questions": [
+      "সঠিক কাগজপত্র জমা দিলে এনআইডিতে পেশা পরিবর্তনের আবেদন নিষ্পত্তি হতে সাধারণত কত সময় লাগে?"
+    ],
+    "keywords": [
+      "সঠিক",
+      "নিষ্পত্তি",
+      "আবেদন",
+      "জমা",
+      "হতে",
+      "এনআইডিতে",
+      "পেশা",
+      "কত"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000236",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "Reissue",
+    "title": "হারিয়ে যাওয়া সিম রিপ্লেসমেন্টের জন্য কী ধরনের পরিচয়পত্র লাগে?",
+    "content": "মোবাইল অপারেটরের কাস্টমার কেয়ারে সিম রিপ্লেসমেন্টের জন্য মূল জাতীয় পরিচয়পত্র (NID) বা স্মার্ট এনআইডি কার্ড প্রদর্শন করতে হয়।",
+    "questions": [
+      "হারিয়ে যাওয়া সিম রিপ্লেসমেন্টের জন্য কী ধরনের পরিচয়পত্র লাগে?"
+    ],
+    "keywords": [
+      "সিম",
+      "যাওয়া",
+      "কী",
+      "লাগে",
+      "পরিচয়পত্র",
+      "জন্য",
+      "হারিয়ে",
+      "ধরনের"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000023",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "অবিবাহিত হলেও যদি NID তে স্বামীর নাম লেখা থাকে তাহলে কী করবো?",
+    "content": "প্রমাণসহ সংশ্লিষ্ট উপজেলা/থানা/জেলা নির্বাচন অফিসে আবেদন করে সংশোধন করতে হবে।",
+    "questions": [
+      "অবিবাহিত হলেও যদি NID তে স্বামীর নাম লেখা থাকে তাহলে কী করবো?"
+    ],
+    "keywords": [
+      "নাম",
+      "থাকে",
+      "করবো",
+      "লেখা",
+      "স্বামীর",
+      "তাহলে",
+      "কী",
+      "যদি"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000136",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "লন্ডন NID আবেদন প্রক্রিয়ায় কীভাবে কার্ড পাওয়া যায়?",
+    "content": "আবেদন শেষে এনরোলমেন্ট স্লিপ দেওয়া হয়, SMS পাওয়ার পর অনলাইন থেকে ডাউনলোড করা যায় এবং কার্ড প্রস্তুত হলে হাই কমিশন থেকে সংগ্রহ করা যায়।",
+    "questions": [
+      "লন্ডন NID আবেদন প্রক্রিয়ায় কীভাবে কার্ড পাওয়া যায়?"
+    ],
+    "keywords": [
+      "কার্ড",
+      "আবেদন",
+      "প্রক্রিয়ায়",
+      "যায়",
+      "কীভাবে",
+      "লন্ডন",
+      "NID",
+      "পাওয়া"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000177",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "Expatriate",
+    "title": "প্রবাসী ভোটার নিবন্ধনে পাসপোর্ট কেন লাগে?",
+    "content": "পাসপোর্ট নাগরিকত্ব ও পরিচয় যাচাইয়ের জন্য প্রয়োজন হয়, এটি মেয়াদযুক্ত বা বিদেশি পাসপোর্টও হতে পারে।",
+    "questions": [
+      "প্রবাসী ভোটার নিবন্ধনে পাসপোর্ট কেন লাগে?"
+    ],
+    "keywords": [
+      "পাসপোর্ট",
+      "কেন",
+      "প্রবাসী",
+      "নিবন্ধনে",
+      "লাগে",
+      "ভোটার"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000184",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "Expatriate",
+    "title": "প্রবাসী ভোটার নিবন্ধনের উদ্দেশ্য কী?",
+    "content": "প্রবাসী বাংলাদেশিদের সঠিক পরিচয় যাচাই করে ভোটার তালিকায় অন্তর্ভুক্ত করা এবং NID প্রদান করা।",
+    "questions": [
+      "প্রবাসী ভোটার নিবন্ধনের উদ্দেশ্য কী?"
+    ],
+    "keywords": [
+      "প্রবাসী",
+      "কী",
+      "নিবন্ধনের",
+      "উদ্দেশ্য",
+      "ভোটার"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000050",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "ভোটার তালিকায় উপাধি বা পেশা যোগ করা যায় কি?",
+    "content": "না, ভোটার তালিকায় শুধুমাত্র নাম থাকে, কোনো উপাধি বা পদবি যুক্ত করা হয় না।",
+    "questions": [
+      "ভোটার তালিকায় উপাধি বা পেশা যোগ করা যায় কি?"
+    ],
+    "keywords": [
+      "কি",
+      "পেশা",
+      "তালিকায়",
+      "বা",
+      "করা",
+      "যায়",
+      "যোগ",
+      "উপাধি"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000195",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "NID সত্যায়ন আবেদন কোথায় ট্র্যাক করা যায়?",
+    "content": "সেবা ব্যবস্থাপনা অপশন থেকে ট্র্যাকিং নম্বর ব্যবহার করে আবেদন ট্র্যাক করা যায়।",
+    "questions": [
+      "NID সত্যায়ন আবেদন কোথায় ট্র্যাক করা যায়?"
+    ],
+    "keywords": [
+      "আবেদন",
+      "করা",
+      "যায়",
+      "কোথায়",
+      "NID",
+      "সত্যায়ন",
+      "ট্র্যাক"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000311",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "Contact",
+    "title": "বরিশাল আঞ্চলিক নির্বাচন অফিসের যোগাযোগ নম্বর কত?",
+    "content": "বরিশাল আঞ্চলিক নির্বাচন অফিসের যোগাযোগ নম্বর: 0431-640।",
+    "questions": [
+      "বরিশাল আঞ্চলিক নির্বাচন অফিসের যোগাযোগ নম্বর কত?"
+    ],
+    "keywords": [
+      "নম্বর",
+      "কত",
+      "আঞ্চলিক",
+      "যোগাযোগ",
+      "নির্বাচন",
+      "বরিশাল",
+      "অফিসের"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000318",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "ভোটার নিবন্ধনের সময় কী কী বায়োমেট্রিক তথ্য নেওয়া হয়?",
+    "content": "ভোটার নিবন্ধনের সময় আবেদনকারীর ছবি, আঙুলের ছাপ এবং অন্যান্য প্রয়োজনীয় তথ্য সংগ্রহ করা হয়।",
+    "questions": [
+      "ভোটার নিবন্ধনের সময় কী কী বায়োমেট্রিক তথ্য নেওয়া হয়?"
+    ],
+    "keywords": [
+      "তথ্য",
+      "হয়",
+      "কী",
+      "নিবন্ধনের",
+      "নেওয়া",
+      "সময়",
+      "বায়োমেট্রিক",
+      "ভোটার"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000173",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "প্রতিবন্ধী ভোটারদের জন্য কী ব্যবস্থা আছে?",
+    "content": "প্রতিবন্ধী ও অসুস্থ ভোটারদের বাড়িতে গিয়ে নিবন্ধন সম্পন্ন করা হয়।",
+    "questions": [
+      "প্রতিবন্ধী ভোটারদের জন্য কী ব্যবস্থা আছে?"
+    ],
+    "keywords": [
+      "ব্যবস্থা",
+      "প্রতিবন্ধী",
+      "ভোটারদের",
+      "আছে",
+      "কী",
+      "জন্য"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000111",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "ভোটার এলাকা পরিবর্তন কীভাবে করা যায়?",
+    "content": "Migration Form পূরণ করে উপজেলা/থানা নির্বাচন অফিসে জমা দিতে হয়।",
+    "questions": [
+      "ভোটার এলাকা পরিবর্তন কীভাবে করা যায়?"
+    ],
+    "keywords": [
+      "এলাকা",
+      "করা",
+      "যায়",
+      "কীভাবে",
+      "ভোটার",
+      "পরিবর্তন"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000080",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "Expatriate",
+    "title": "প্রবাসী ভোটার নিবন্ধনে ঠিকানার প্রমাণ হিসেবে কী লাগে?",
+    "content": "ইউটিলিটি বিলের কপি বা হোল্ডিং ট্যাক্স রশিদ জমা দিতে হয়।",
+    "questions": [
+      "প্রবাসী ভোটার নিবন্ধনে ঠিকানার প্রমাণ হিসেবে কী লাগে?"
+    ],
+    "keywords": [
+      "প্রবাসী",
+      "হিসেবে",
+      "কী",
+      "নিবন্ধনে",
+      "লাগে",
+      "ভোটার",
+      "প্রমাণ",
+      "ঠিকানার"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000300",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "Contact",
+    "title": "রাজশাহী আঞ্চলিক নির্বাচন অফিসের যোগাযোগ নম্বর কত?",
+    "content": "রাজশাহী আঞ্চলিক নির্বাচন অফিসের যোগাযোগ নম্বর: 0721-775903।",
+    "questions": [
+      "রাজশাহী আঞ্চলিক নির্বাচন অফিসের যোগাযোগ নম্বর কত?"
+    ],
+    "keywords": [
+      "নম্বর",
+      "কত",
+      "আঞ্চলিক",
+      "যোগাযোগ",
+      "নির্বাচন",
+      "অফিসের",
+      "রাজশাহী"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000175",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "Expatriate",
+    "title": "প্রবাসী ভোটার নিবন্ধনের জন্য ফরম-২ক কী?",
+    "content": "ফরম-২ক হলো প্রবাসী বাংলাদেশিদের ভোটার নিবন্ধনের জন্য অনলাইনে পূরণকৃত আবেদন ফর্ম।",
+    "questions": [
+      "প্রবাসী ভোটার নিবন্ধনের জন্য ফরম-২ক কী?"
+    ],
+    "keywords": [
+      "প্রবাসী",
+      "কী",
+      "জন্য",
+      "ফরম",
+      "নিবন্ধনের",
+      "২ক",
+      "ভোটার"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000314",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "ভোটার হওয়ার জন্য সর্বনিম্ন কত বছর বয়স হতে হয়?",
+    "content": "ভোটার হিসেবে নিবন্ধিত হতে কমপক্ষে ১৮ বছর বয়স হতে হয়।",
+    "questions": [
+      "ভোটার হওয়ার জন্য সর্বনিম্ন কত বছর বয়স হতে হয়?"
+    ],
+    "keywords": [
+      "হওয়ার",
+      "কত",
+      "বছর",
+      "হতে",
+      "হয়",
+      "সর্বনিম্ন",
+      "জন্য",
+      "বয়স"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000082",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "Expatriate",
+    "title": "প্রবাসী ভোটার নিবন্ধনের সময় কী বায়োমেট্রিক নেওয়া হয়?",
+    "content": "হ্যাঁ, দশ আঙ্গুলের ছাপ, আইরিশ স্ক্যান এবং স্বাক্ষর নেওয়া হয়।",
+    "questions": [
+      "প্রবাসী ভোটার নিবন্ধনের সময় কী বায়োমেট্রিক নেওয়া হয়?"
+    ],
+    "keywords": [
+      "বায়োমেট্রিক",
+      "প্রবাসী",
+      "কী",
+      "নিবন্ধনের",
+      "হয়",
+      "নেওয়া",
+      "সময়",
+      "ভোটার"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000004",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "বিদেশে NID করার জন্য কী লাগে?",
+    "content": "বিদেশে আবেদনকারীর জন্ম সনদ, পাসপোর্ট, পিতামাতার পরিচয়পত্র এবং কনস্যুলেট নির্ধারিত অন্যান্য ডকুমেন্ট প্রয়োজন হয়।",
+    "questions": [
+      "বিদেশে NID করার জন্য কী লাগে?"
+    ],
+    "keywords": [
+      "কী",
+      "বিদেশে",
+      "লাগে",
+      "জন্য",
+      "NID",
+      "করার"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000143",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "লন্ডনে NID আবেদন কোথায় করতে হয়?",
+    "content": "https://services.nidw.gov.bd/nid-pub ওয়েবসাইটে অনলাইন আবেদন করতে হয়।",
+    "questions": [
+      "লন্ডনে NID আবেদন কোথায় করতে হয়?"
+    ],
+    "keywords": [
+      "লন্ডনে",
+      "আবেদন",
+      "করতে",
+      "কোথায়",
+      "NID",
+      "হয়"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000230",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "Correction",
+    "title": "জীবিত ব্যক্তিকে ভুলক্রমে মৃত হিসেবে উল্লেখ করা হলে এনআইডি কীভাবে সংশোধন করা যায়?",
+    "content": "জীবিত পিতা, মাতা বা স্বামীকে ভুলক্রমে 'মৃত' হিসেবে উল্লেখ করা হলে সংশ্লিষ্ট ব্যক্তির জাতীয় পরিচয়পত্রের কপি জমা দিয়ে সংশোধনের আবেদন করতে হয়।",
+    "questions": [
+      "জীবিত ব্যক্তিকে ভুলক্রমে মৃত হিসেবে উল্লেখ করা হলে এনআইডি কীভাবে সংশোধন করা যায়?"
+    ],
+    "keywords": [
+      "উল্লেখ",
+      "ব্যক্তিকে",
+      "ভুলক্রমে",
+      "করা",
+      "হিসেবে",
+      "মৃত",
+      "যায়",
+      "এনআইডি"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000113",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "Undistributed NID কোথা থেকে সংগ্রহ করা যায়?",
+    "content": "উপজেলা/থানা নির্বাচন অফিস থেকে সংগ্রহ করা যায়।",
+    "questions": [
+      "Undistributed NID কোথা থেকে সংগ্রহ করা যায়?"
+    ],
+    "keywords": [
+      "থেকে",
+      "করা",
+      "কোথা",
+      "যায়",
+      "NID",
+      "Undistributed",
+      "সংগ্রহ"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000215",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "নতুন ভোটার আইডি অনলাইনে যাচাইয়ের সময় NRE নম্বর ব্যবহার করা যায় কি?",
+    "content": "হ্যাঁ। ভোটার স্লিপের ফর্ম নম্বরের বিকল্প হিসেবে এসএমএসে প্রাপ্ত ১০ সংখ্যার NRE নম্বর ব্যবহার করা যায়।",
+    "questions": [
+      "নতুন ভোটার আইডি অনলাইনে যাচাইয়ের সময় NRE নম্বর ব্যবহার করা যায় কি?"
+    ],
+    "keywords": [
+      "নম্বর",
+      "কি",
+      "করা",
+      "যাচাইয়ের",
+      "যায়",
+      "ভোটার",
+      "সময়",
+      "আইডি"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000317",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "ভোটার নিবন্ধনের সময় আবেদনকারীকে কী দেওয়া হয়?",
+    "content": "ভোটার নিবন্ধন ফরম পূরণের পর আবেদনকারীকে নির্ধারিত দিনে ছবি ও বায়োমেট্রিক তথ্য প্রদানের জন্য একটি স্লিপ দেওয়া হয়।",
+    "questions": [
+      "ভোটার নিবন্ধনের সময় আবেদনকারীকে কী দেওয়া হয়?"
+    ],
+    "keywords": [
+      "হয়",
+      "কী",
+      "আবেদনকারীকে",
+      "নিবন্ধনের",
+      "সময়",
+      "দেওয়া",
+      "ভোটার"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000102",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "NID Smart Card status কীভাবে চেক করা যায়?",
+    "content": "NID ওয়েবসাইটের Smart Card Status সেকশনে গিয়ে স্ট্যাটাস চেক করা যায়।",
+    "questions": [
+      "NID Smart Card status কীভাবে চেক করা যায়?"
+    ],
+    "keywords": [
+      "status",
+      "করা",
+      "Smart",
+      "যায়",
+      "কীভাবে",
+      "NID",
+      "Card",
+      "চেক"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000288",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "Contact",
+    "title": "চট্টগ্রাম আঞ্চলিক নির্বাচন অফিসের যোগাযোগ নম্বর কত?",
+    "content": "চট্টগ্রাম আঞ্চলিক নির্বাচন অফিসের যোগাযোগ নম্বর: 031-657478 অথবা 031-657479।",
+    "questions": [
+      "চট্টগ্রাম আঞ্চলিক নির্বাচন অফিসের যোগাযোগ নম্বর কত?"
+    ],
+    "keywords": [
+      "নম্বর",
+      "কত",
+      "আঞ্চলিক",
+      "যোগাযোগ",
+      "নির্বাচন",
+      "অফিসের",
+      "চট্টগ্রাম"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000014",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "NID তথ্য হালনাগাদের জন্য কী কী প্রয়োজন?",
+    "content": "তথ্য হালনাগাদের জন্য প্রয়োজনীয় প্রমাণপত্র যেমন জন্ম নিবন্ধন, পাসপোর্ট, ঠিকানা প্রমাণ এবং সংশ্লিষ্ট দলিলাদি জমা দিতে হয়।",
+    "questions": [
+      "NID তথ্য হালনাগাদের জন্য কী কী প্রয়োজন?"
+    ],
+    "keywords": [
+      "তথ্য",
+      "কী",
+      "হালনাগাদের",
+      "জন্য",
+      "প্রয়োজন",
+      "NID"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000259",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "এনআইডি যাচাইয়ের সময় কোন কোন তথ্য দিতে হয়?",
+    "content": "এনআইডি নম্বর, জন্মতারিখ, একটি সচল মোবাইল নম্বর এবং ক্যাপচা কোড প্রদান করতে হয়।",
+    "questions": [
+      "এনআইডি যাচাইয়ের সময় কোন কোন তথ্য দিতে হয়?"
+    ],
+    "keywords": [
+      "দিতে",
+      "কোন",
+      "তথ্য",
+      "হয়",
+      "যাচাইয়ের",
+      "এনআইডি",
+      "সময়"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000120",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "টোকিও দূতাবাসে NID এর জন্য ফি লাগে কি?",
+    "content": "না, NID আবেদন বা প্রক্রিয়ার জন্য কোনো ফি লাগে না।",
+    "questions": [
+      "টোকিও দূতাবাসে NID এর জন্য ফি লাগে কি?"
+    ],
+    "keywords": [
+      "কি",
+      "টোকিও",
+      "লাগে",
+      "দূতাবাসে",
+      "জন্য",
+      "ফি",
+      "এর",
+      "NID"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000112",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "মৃত ভোটার তালিকা থেকে নাম বাদ কীভাবে হয়?",
+    "content": "Form-12 পূরণ করে সংশ্লিষ্ট নির্বাচন অফিসে জানালে নাম বাদ দেওয়া হয়।",
+    "questions": [
+      "মৃত ভোটার তালিকা থেকে নাম বাদ কীভাবে হয়?"
+    ],
+    "keywords": [
+      "নাম",
+      "থেকে",
+      "তালিকা",
+      "মৃত",
+      "বাদ",
+      "হয়",
+      "কীভাবে",
+      "ভোটার"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000048",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "বিদেশে থাকলে ভোটার রেজিস্ট্রেশন কীভাবে করবো?",
+    "content": "বিদেশে অবস্থান করলেও আপনি অনলাইনে ভোটার রেজিস্ট্রেশনের জন্য আবেদন করতে পারবেন।",
+    "questions": [
+      "বিদেশে থাকলে ভোটার রেজিস্ট্রেশন কীভাবে করবো?"
+    ],
+    "keywords": [
+      "থাকলে",
+      "করবো",
+      "বিদেশে",
+      "কীভাবে",
+      "ভোটার",
+      "রেজিস্ট্রেশন"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000016",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "NID রেজিস্ট্রেশন প্রক্রিয়া কী?",
+    "content": "রেজিস্ট্রেশন প্রক্রিয়ায় অনলাইন আবেদন, তথ্য যাচাই এবং বায়োমেট্রিক ডেটা সংগ্রহ অন্তর্ভুক্ত থাকে।",
+    "questions": [
+      "NID রেজিস্ট্রেশন প্রক্রিয়া কী?"
+    ],
+    "keywords": [
+      "NID",
+      "কী",
+      "প্রক্রিয়া",
+      "রেজিস্ট্রেশন"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000017",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "NID হেল্পলাইন নম্বর কী?",
+    "content": "NID হেল্পলাইন নম্বর হলো ১০৫ এবং +৮৮ ০১৭০৮-৫০১২৬১।",
+    "questions": [
+      "NID হেল্পলাইন নম্বর কী?"
+    ],
+    "keywords": [
+      "নম্বর",
+      "হেল্পলাইন",
+      "NID",
+      "কী"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000217",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "এনআইডি অনলাইন সেবায় ফেস ভেরিফিকেশনের জন্য কোন অ্যাপ ব্যবহার করতে হয়?",
+    "content": "এনআইডি অনলাইন সেবায় ফেস ভেরিফিকেশন সম্পন্ন করার জন্য NID Wallet অ্যাপ ব্যবহার করতে হয়।",
+    "questions": [
+      "এনআইডি অনলাইন সেবায় ফেস ভেরিফিকেশনের জন্য কোন অ্যাপ ব্যবহার করতে হয়?"
+    ],
+    "keywords": [
+      "কোন",
+      "ভেরিফিকেশনের",
+      "হয়",
+      "অ্যাপ",
+      "অনলাইন",
+      "জন্য",
+      "এনআইডি",
+      "ফেস"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000303",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "Contact",
+    "title": "বরিশাল আঞ্চলিক নির্বাচন অফিসের যোগাযোগ নম্বর কত?",
+    "content": "বরিশাল আঞ্চলিক নির্বাচন অফিসের যোগাযোগ নম্বর: 0431-640।",
+    "questions": [
+      "বরিশাল আঞ্চলিক নির্বাচন অফিসের যোগাযোগ নম্বর কত?"
+    ],
+    "keywords": [
+      "নম্বর",
+      "কত",
+      "আঞ্চলিক",
+      "যোগাযোগ",
+      "নির্বাচন",
+      "বরিশাল",
+      "অফিসের"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000045",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "Correction",
+    "title": "হারানো NID কীভাবে সংশোধন করবো?",
+    "content": "প্রথমে হারানো NID পুনরায় সংগ্রহ করতে হবে, এরপর আলাদাভাবে সংশোধনের জন্য আবেদন করতে হবে।",
+    "questions": [
+      "হারানো NID কীভাবে সংশোধন করবো?"
+    ],
+    "keywords": [
+      "করবো",
+      "হারানো",
+      "কীভাবে",
+      "NID",
+      "সংশোধন"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000280",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "অনলাইনে এনআইডি নবায়নের আবেদন করলে কী আপলোড করতে হয়?",
+    "content": "ফি পরিশোধের রশিদের স্ক্যান কপি আপলোড করে আবেদন জমা দিতে হয়।",
+    "questions": [
+      "অনলাইনে এনআইডি নবায়নের আবেদন করলে কী আপলোড করতে হয়?"
+    ],
+    "keywords": [
+      "আপলোড",
+      "আবেদন",
+      "নবায়নের",
+      "করলে",
+      "হয়",
+      "কী",
+      "করতে",
+      "এনআইডি"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000053",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "ভুল তথ্য দিলে কী শাস্তি হতে পারে?",
+    "content": "ইচ্ছাকৃত ভুল তথ্য দিলে জেল বা জরিমানা অথবা উভয় দণ্ড হতে পারে।",
+    "questions": [
+      "ভুল তথ্য দিলে কী শাস্তি হতে পারে?"
+    ],
+    "keywords": [
+      "হতে",
+      "পারে",
+      "তথ্য",
+      "কী",
+      "ভুল",
+      "দিলে",
+      "শাস্তি"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000072",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "Expatriate",
+    "title": "প্রবাসী ভোটার নিবন্ধনের জন্য কোন আবেদন ফর্ম ব্যবহার করতে হয়?",
+    "content": "প্রবাসী ভোটার নিবন্ধনের জন্য ফরম-২ক ব্যবহার করতে হয়।",
+    "questions": [
+      "প্রবাসী ভোটার নিবন্ধনের জন্য কোন আবেদন ফর্ম ব্যবহার করতে হয়?"
+    ],
+    "keywords": [
+      "ফর্ম",
+      "আবেদন",
+      "কোন",
+      "প্রবাসী",
+      "করতে",
+      "জন্য",
+      "নিবন্ধনের",
+      "হয়"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000115",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "NID ফি পেমেন্টে কোন ব্যাংক ব্যবহার করা যায়?",
+    "content": "ডাচ্-বাংলা ব্যাংক এবং বিকাশসহ নির্ধারিত পেমেন্ট মাধ্যম ব্যবহার করা যায়।",
+    "questions": [
+      "NID ফি পেমেন্টে কোন ব্যাংক ব্যবহার করা যায়?"
+    ],
+    "keywords": [
+      "কোন",
+      "করা",
+      "যায়",
+      "ব্যাংক",
+      "ফি",
+      "NID",
+      "ব্যবহার",
+      "পেমেন্টে"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000126",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "টোকিও দূতাবাসে কোন জেলার জন্য বিশেষ ফরম লাগে?",
+    "content": "চট্টগ্রাম, কক্সবাজার, রাঙামাটি, খাগড়াছড়ি ও বান্দরবান জেলার জন্য বিশেষ তথ্য ফরম-২ প্রয়োজন হয়।",
+    "questions": [
+      "টোকিও দূতাবাসে কোন জেলার জন্য বিশেষ ফরম লাগে?"
+    ],
+    "keywords": [
+      "কোন",
+      "টোকিও",
+      "বিশেষ",
+      "দূতাবাসে",
+      "জন্য",
+      "ফরম",
+      "লাগে",
+      "জেলার"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000141",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "লন্ডনে NID আবেদনের শর্ত কী?",
+    "content": "আবেদনকারীকে অবশ্যই নতুন আবেদনকারী হতে হবে, এবং পূর্বে NID থাকলে আবেদন গ্রহণযোগ্য নয়।",
+    "questions": [
+      "লন্ডনে NID আবেদনের শর্ত কী?"
+    ],
+    "keywords": [
+      "লন্ডনে",
+      "কী",
+      "শর্ত",
+      "আবেদনের",
+      "NID"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000013",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "NID তথ্য হালনাগাদ করতে চাইলে কী করতে হবে?",
+    "content": "আপনাকে NID সেবার মাধ্যমে অনলাইনে বা সংশ্লিষ্ট অফিসে গিয়ে তথ্য হালনাগাদের আবেদন করতে হবে।",
+    "questions": [
+      "NID তথ্য হালনাগাদ করতে চাইলে কী করতে হবে?"
+    ],
+    "keywords": [
+      "তথ্য",
+      "হালনাগাদ",
+      "কী",
+      "করতে",
+      "চাইলে",
+      "NID",
+      "হবে"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  },
+  {
+    "id": "nid_000058",
+    "department": "Bangladesh Election Commission",
+    "service": "National ID",
+    "category": "General",
+    "title": "নতুন ভোটার হতে কী কী লাগে?",
+    "content": "জন্ম নিবন্ধন, শিক্ষাগত সনদ, ঠিকানা প্রমাণ, নাগরিক সনদ, পিতামাতার NID এবং অন্যান্য প্রযোজ্য কাগজপত্র প্রয়োজন হয়।",
+    "questions": [
+      "নতুন ভোটার হতে কী কী লাগে?"
+    ],
+    "keywords": [
+      "হতে",
+      "কী",
+      "লাগে",
+      "ভোটার",
+      "নতুন"
+    ],
+    "language": "bn",
+    "source": "https://www.nidw.gov.bd/",
+    "split": "test"
+  }
+]
