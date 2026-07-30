@@ -1,0 +1,56 @@
+﻿model,setting,scope,domain,count,metric,score
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,overall,all,248,Normalized Exact Match,0.012096774193548387
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,overall,all,248,Token F1,0.4217539732301309
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,overall,all,248,Fuzzy Match,0.6985594622296144
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,overall,all,248,Corpus BLEU,0.194772095474022
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,overall,all,248,ROUGE-1 F1,0.4217539732301309
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,overall,all,248,ROUGE-2 F1,0.2604884267566965
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,overall,all,248,ROUGE-L F1,0.38790223563213794
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,overall,all,248,METEOR,0.36481626949637863
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,overall,all,248,BERT Precision,0.8133020997047424
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,overall,all,248,BERT Recall,0.7910223603248596
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,overall,all,248,BERT F1,0.8005475401878357
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,birth_death,63,Normalized Exact Match,0.0
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,birth_death,63,Token F1,0.5463938265303555
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,birth_death,63,Fuzzy Match,0.8032372008525123
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,birth_death,63,Corpus BLEU,0.2796327607320758
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,birth_death,63,ROUGE-1 F1,0.5463938265303555
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,birth_death,63,ROUGE-2 F1,0.3949100712811223
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,birth_death,63,ROUGE-L F1,0.501209856094562
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,birth_death,63,METEOR,0.45129826035295245
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,birth_death,63,BERT Precision,0.8628407716751099
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,birth_death,63,BERT Recall,0.8173650503158569
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,birth_death,63,BERT F1,0.8390690088272095
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,nid,74,Normalized Exact Match,0.013513513513513514
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,nid,74,Token F1,0.34753338830875524
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,nid,74,Fuzzy Match,0.6193573098482895
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,nid,74,Corpus BLEU,0.1144523656482675
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,nid,74,ROUGE-1 F1,0.34753338830875524
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,nid,74,ROUGE-2 F1,0.1845037091545184
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,nid,74,ROUGE-L F1,0.3271063631899119
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,nid,74,METEOR,0.31613341434999065
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,nid,74,BERT Precision,0.7787315249443054
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,nid,74,BERT Recall,0.7802392840385437
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,nid,74,BERT F1,0.778358519077301
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,passport,63,Normalized Exact Match,0.031746031746031744
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,passport,63,Token F1,0.436329861003004
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,passport,63,Fuzzy Match,0.7335654110651172
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,passport,63,Corpus BLEU,0.13506570089239936
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,passport,63,ROUGE-1 F1,0.436329861003004
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,passport,63,ROUGE-2 F1,0.27870116552109514
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,passport,63,ROUGE-L F1,0.39970074149992557
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,passport,63,METEOR,0.3751760742126606
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,passport,63,BERT Precision,0.8213499188423157
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,passport,63,BERT Recall,0.7863858938217163
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,passport,63,BERT F1,0.8012636303901672
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,tin,48,Normalized Exact Match,0.0
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,tin,48,Token F1,0.35345671482547764
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,tin,48,Fuzzy Match,0.6373279406950056
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,tin,48,Corpus BLEU,0.12454832280584706
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,tin,48,ROUGE-1 F1,0.35345671482547764
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,tin,48,ROUGE-2 F1,0.17729890499347234
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,tin,48,ROUGE-L F1,0.31742741483883324
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,tin,48,METEOR,0.31276414782435374
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,tin,48,BERT Precision,0.791016161441803
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,tin,48,BERT Recall,0.7791568636894226
+Qwen2.5-7B-Instruct + LoRA,Hybrid RAG + reranking + fine-tuned,domain,tin,48,BERT F1,0.7832560539245605
