@@ -788,5 +788,264 @@
     "source_url": "https://bdris.gov.bd/",
     "last_checked": "2026-06-30",
     "text": "BDRIS-এ জন্ম বা মৃত্যু নিবন্ধন আবেদন সাবমিট করার আগে নাম, তারিখ, ঠিকানা, পিতা-মাতা বা স্বামী-স্ত্রীর তথ্য, ফোন নম্বর, সংযুক্তি এবং নিবন্ধক কার্যালয় ভালোভাবে যাচাই করতে হবে। ভুল তথ্য সাবমিট করলে পরে সংশোধন আবেদন ও অতিরিক্ত সময় লাগতে পারে।"
+  },
+  {
+    "doc_id": "birth_death_cov_001",
+    "domain": "birth_death_certificate",
+    "service": "birth_death",
+    "topic": "processing_time",
+    "title": "জন্ম নিবন্ধন কত দিনে পাওয়া যায়",
+    "source_url": "https://everify.bdris.gov.bd/",
+    "last_checked": "2026-08-01",
+    "text": "জন্ম বা মৃত্যু নিবন্ধন পেতে সময় নিবন্ধক কার্যালয়ের যাচাই, কাগজপত্রের সম্পূর্ণতা এবং আবেদনের চাপের ওপর নির্ভর করে। সঠিক সময় জানতে আবেদন অবস্থা যাচাই করুন বা সংশ্লিষ্ট নিবন্ধক কার্যালয়ে যোগাযোগ করুন।",
+    "source_name": "BDRIS eVerify",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "birth_death_312",
+      "birth_death_313",
+      "birth_death_314",
+      "birth_death_315",
+      "birth_death_316"
+    ]
+  },
+  {
+    "doc_id": "birth_death_cov_002",
+    "domain": "birth_death_certificate",
+    "service": "birth_death",
+    "topic": "fees",
+    "title": "মৃত্যু নিবন্ধন ফ্রি কখন",
+    "source_url": "https://orgbdr.gov.bd/pages/static-pages/69cf48059d736d71f1a34c8c",
+    "last_checked": "2026-08-01",
+    "text": "মৃত্যুর ৪৫ দিনের মধ্যে মৃত্যু নিবন্ধন করলে ফি লাগে না।",
+    "source_name": "Office of the Registrar General — Birth and Death Registration Fees",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "birth_death_328"
+    ]
+  },
+  {
+    "doc_id": "birth_death_cov_003",
+    "domain": "birth_death_certificate",
+    "service": "birth_death",
+    "topic": "birth_application",
+    "title": "শিশুর জন্ম নিবন্ধনের জন্য কোন তথ্য লাগে",
+    "source_url": "https://bdris.gov.bd/",
+    "last_checked": "2026-08-01",
+    "text": "শিশুর জন্ম নিবন্ধনের আবেদনে শিশুর নাম, জন্মতারিখ, লিঙ্গ, জন্মস্থানের ঠিকানা, বর্তমান ও স্থায়ী ঠিকানা, পিতা-মাতার তথ্য, আবেদনকারীর তথ্য এবং প্রয়োজনীয় প্রমাণপত্রের তথ্য দিতে হয়।",
+    "source_name": "BDRIS Government Portal",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "birth_death_022",
+      "birth_death_023",
+      "birth_death_024",
+      "birth_death_025",
+      "birth_death_026"
+    ]
+  },
+  {
+    "doc_id": "birth_death_cov_004",
+    "domain": "birth_death_certificate",
+    "service": "birth_death",
+    "topic": "birth_registrar_office",
+    "title": "জন্ম নিবন্ধন কোন অফিসে করব",
+    "source_url": "https://orgbdr.gov.bd/pages/static-pages/69cf48059d736d71f1a34c8c",
+    "last_checked": "2026-08-01",
+    "text": "জন্মস্থান, স্থায়ী ঠিকানা বা বর্তমান ঠিকানা অনুযায়ী সংশ্লিষ্ট ইউনিয়ন পরিষদ, পৌরসভা, সিটি কর্পোরেশন বা ক্যান্টনমেন্ট বোর্ডের নিবন্ধক কার্যালয়ে জন্ম নিবন্ধনের আবেদন জমা দিতে হয়।",
+    "source_name": "Office of the Registrar General — Birth and Death Registration Fees",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "birth_death_226",
+      "birth_death_227",
+      "birth_death_228",
+      "birth_death_229",
+      "birth_death_230"
+    ]
+  },
+  {
+    "doc_id": "birth_death_cov_005",
+    "domain": "birth_death_certificate",
+    "service": "birth_death",
+    "topic": "death_application",
+    "title": "হাসপাতালে মৃত্যু না হলে মৃত্যু নিবন্ধন করা যাবে",
+    "source_url": "https://bdris.gov.bd/",
+    "last_checked": "2026-08-01",
+    "text": "হাসপাতালের বাইরে মৃত্যু হলেও মৃত্যু নিবন্ধন করা যায়। এ ক্ষেত্রে স্থানীয় প্রতিনিধি, স্বাস্থ্যকর্মী, চিকিৎসক, দাফন বা সৎকার কর্তৃপক্ষ, অথবা নিবন্ধক কার্যালয় গ্রহণ করে এমন প্রমাণপত্র লাগতে পারে।",
+    "source_name": "BDRIS Government Portal",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "birth_death_058",
+      "birth_death_059",
+      "birth_death_060",
+      "birth_death_061",
+      "birth_death_062"
+    ]
+  },
+  {
+    "doc_id": "birth_death_cov_006",
+    "domain": "birth_death_certificate",
+    "service": "birth_death",
+    "topic": "death_correction",
+    "title": "মৃত্যু সনদে মৃত্যুস্থানের ঠিকানা ভুল হলে কী করব",
+    "source_url": "https://bdris.gov.bd/dr/correction",
+    "last_checked": "2026-08-01",
+    "text": "মৃত্যু নিবন্ধনে মৃত্যুস্থানের ঠিকানা বা মৃত্যুর সময় বসবাসের ঠিকানা ভুল হলে মৃত্যু নিবন্ধন তথ্য সংশোধন আবেদন করতে হয়। সঠিক ঠিকানার প্রমাণপত্র সংযুক্ত করা প্রয়োজন হতে পারে।",
+    "source_name": "BDRIS — Death Information Correction",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "birth_death_295",
+      "birth_death_296",
+      "birth_death_297",
+      "birth_death_298"
+    ]
+  },
+  {
+    "doc_id": "birth_death_cov_007",
+    "domain": "birth_death_certificate",
+    "service": "birth_death",
+    "topic": "death_verification",
+    "title": "মৃত্যু নিবন্ধন যাচাই করব কীভাবে",
+    "source_url": "https://everify.bdris.gov.bd/",
+    "last_checked": "2026-08-01",
+    "text": "মৃত্যু নিবন্ধন যাচাই করতে eVerify পেজে ১৭ অংকের মৃত্যু নিবন্ধন নম্বর এবং মৃত্যুর তারিখ দিতে হয়। সঠিক তথ্য দিলে অনলাইনে মৃত্যু নিবন্ধনের তথ্য যাচাই করা যায়।",
+    "source_name": "BDRIS eVerify",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "birth_death_069",
+      "birth_death_070",
+      "birth_death_071",
+      "birth_death_072",
+      "birth_death_073",
+      "birth_death_074",
+      "birth_death_322"
+    ]
+  },
+  {
+    "doc_id": "birth_death_cov_008",
+    "domain": "birth_death_certificate",
+    "service": "birth_death",
+    "topic": "death_status_check",
+    "title": "মৃত্যু নিবন্ধন আবেদনের অবস্থা কীভাবে দেখব",
+    "source_url": "https://bdris.gov.bd/",
+    "last_checked": "2026-08-01",
+    "text": "BDRIS পোর্টালে মৃত্যু নিবন্ধন আবেদনের বর্তমান অবস্থা অপশন ব্যবহার করে আবেদন নম্বর বা প্রয়োজনীয় তথ্য দিয়ে আবেদনের অগ্রগতি দেখা যায়।",
+    "source_name": "BDRIS Government Portal",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "birth_death_090",
+      "birth_death_091",
+      "birth_death_092",
+      "birth_death_093",
+      "birth_death_094"
+    ]
+  },
+  {
+    "doc_id": "birth_death_cov_009",
+    "domain": "birth_death_certificate",
+    "service": "birth_death",
+    "topic": "otp_login_problem",
+    "title": "সংশোধনের আবেদন করতে ওটিপি লাগে",
+    "source_url": "https://everify.bdris.gov.bd/",
+    "last_checked": "2026-08-01",
+    "text": "জন্ম বা মৃত্যু নিবন্ধনের সংশোধন আবেদন জমা দিতে আবেদনকারীর ফোন নম্বর বা যোগাযোগের তথ্য দিতে হয় এবং ওটিপি যাচাই লাগতে পারে। ওটিপি সঠিকভাবে প্রদান করলে আবেদন সাবমিট করা যায়।",
+    "source_name": "BDRIS eVerify",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "birth_death_148",
+      "birth_death_149",
+      "birth_death_150",
+      "birth_death_151",
+      "birth_death_152"
+    ]
+  },
+  {
+    "doc_id": "birth_death_cov_010",
+    "domain": "birth_death_certificate",
+    "service": "birth_death",
+    "topic": "account_lock",
+    "title": "BDRIS লগইনে বারবার ভুল পাসওয়ার্ড দিলে কী হয়",
+    "source_url": "https://bdris.gov.bd/",
+    "last_checked": "2026-08-01",
+    "text": "BDRIS লগইনে ৩ বার ইউজারনেম ও পাসওয়ার্ড ভুল দিলে আইডি ৩০ মিনিটের জন্য স্থগিত হতে পারে। ৩০ মিনিট পর সঠিক পাসওয়ার্ড দিয়ে আবার চেষ্টা করতে হবে।",
+    "source_name": "BDRIS Government Portal",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "birth_death_163",
+      "birth_death_164",
+      "birth_death_165",
+      "birth_death_166",
+      "birth_death_167"
+    ]
+  },
+  {
+    "doc_id": "birth_death_cov_011",
+    "domain": "birth_death_certificate",
+    "service": "birth_death",
+    "topic": "registrar_office",
+    "title": "কারা জন্ম-মৃত্যু নিবন্ধনের নিবন্ধক",
+    "source_url": "https://bdris.gov.bd/",
+    "last_checked": "2026-08-01",
+    "text": "সিটি কর্পোরেশন, পৌরসভা, ইউনিয়ন পরিষদ, ক্যান্টনমেন্ট বোর্ড এবং বিদেশে বাংলাদেশ মিশনের ক্ষমতাপ্রাপ্ত কর্মকর্তা জন্ম ও মৃত্যু নিবন্ধনের নিবন্ধক হিসেবে কাজ করেন। সাধারণত জন্মস্থান, মৃত্যুর স্থান বা স্থায়ী বা বর্তমান ঠিকানা অনুযায়ী সংশ্লিষ্ট নিবন্ধক কার্যালয়ে আবেদন করতে হয়।",
+    "source_name": "BDRIS Government Portal",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "birth_death_183",
+      "birth_death_184",
+      "birth_death_185",
+      "birth_death_186",
+      "birth_death_187"
+    ]
+  },
+  {
+    "doc_id": "birth_death_cov_012",
+    "domain": "birth_death_certificate",
+    "service": "birth_death",
+    "topic": "birth_application",
+    "title": "জন্ম নিবন্ধন আবেদন করার পর কি অফিসে যেতে হয়",
+    "source_url": "https://everify.bdris.gov.bd/",
+    "last_checked": "2026-08-01",
+    "text": "অনলাইনে আবেদন জমা দেওয়ার পর সাধারণত আবেদনপত্র প্রিন্ট করে প্রয়োজনীয় কাগজপত্রসহ সংশ্লিষ্ট ইউনিয়ন পরিষদ, পৌরসভা, সিটি কর্পোরেশন বা ক্যান্টনমেন্ট বোর্ডের নিবন্ধক কার্যালয়ে জমা দিতে হয়। নিবন্ধক যাচাই ও অনুমোদন করলে জন্ম নিবন্ধন সম্পন্ন হয়।",
+    "source_name": "BDRIS eVerify",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "birth_death_017",
+      "birth_death_018",
+      "birth_death_019",
+      "birth_death_020",
+      "birth_death_021"
+    ]
+  },
+  {
+    "doc_id": "birth_death_cov_013",
+    "domain": "birth_death_certificate",
+    "service": "birth_death",
+    "topic": "birth_verification",
+    "title": "১৭ অংকের জন্ম নিবন্ধন নম্বর ছাড়া যাচাই করা যাবে",
+    "source_url": "https://everify.bdris.gov.bd/",
+    "last_checked": "2026-08-01",
+    "text": "জন্ম নিবন্ধন অনলাইন যাচাইয়ের জন্য ১৭ অংকের জন্ম নিবন্ধন নম্বর এবং জন্ম তারিখ প্রয়োজন। শুধু নাম দিয়ে সাধারণত অনলাইন যাচাই করা যায় না।",
+    "source_name": "BDRIS eVerify",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "birth_death_075",
+      "birth_death_076",
+      "birth_death_077",
+      "birth_death_078",
+      "birth_death_079"
+    ]
+  },
+  {
+    "doc_id": "birth_death_cov_014",
+    "domain": "birth_death_certificate",
+    "service": "birth_death",
+    "topic": "support_contact",
+    "title": "BDRIS হেল্পলাইন",
+    "source_url": "https://orgbdr.gov.bd/",
+    "last_checked": "2026-08-01",
+    "text": "জন্ম ও মৃত্যু নিবন্ধন সহায়তার জন্য কল সেন্টার নম্বর ১৬১৫২। নাগরিক সমস্যার জন্য help@bdris.gov.bd ইমেইলেও যোগাযোগ করা যায়।",
+    "source_name": "Office of the Registrar General, Birth and Death Registration",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "birth_death_329"
+    ]
   }
 ]

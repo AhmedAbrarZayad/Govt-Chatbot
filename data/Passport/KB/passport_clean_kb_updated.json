@@ -558,5 +558,429 @@
     "source_name": "e-Passport Fees and Payment Options",
     "last_checked": "2026-06-30",
     "text": "বিদেশস্থ বাংলাদেশ মিশনে শ্রমিক ও শিক্ষার্থীদের জন্য কিছু ক্ষেত্রে সাধারণ আবেদনকারীর তুলনায় কম ফি নির্ধারিত থাকে। ৪৮ পৃষ্ঠা ৫ বছর মেয়াদে Regular USD 30 এবং Express USD 45; ৪৮ পৃষ্ঠা ১০ বছর মেয়াদে Regular USD 50 এবং Express USD 75 হতে পারে। ৬৪ পৃষ্ঠা বা অন্যান্য ক্যাটাগরির ক্ষেত্রে ফি ভিন্ন হতে পারে। শ্রমিক বা শিক্ষার্থী সুবিধা পেতে প্রয়োজনীয় প্রমাণপত্র লাগতে পারে এবং সংশ্লিষ্ট মিশনের নিয়ম যাচাই করা উচিত।"
+  },
+  {
+    "doc_id": "passport_cov_001",
+    "domain": "passport",
+    "topic": "application_steps",
+    "title": "ই-পাসপোর্ট আবেদনের পাঁচটি মূল ধাপ কী কী",
+    "source_url": "https://epassport.gov.bd/instructions/passport-fees",
+    "source_name": "Bangladesh e-Passport Online Portal — Fees and Payment Options",
+    "last_checked": "2026-08-01",
+    "text": "ই-পাসপোর্ট আবেদনের ৫টি সহজ ধাপ হলো: ১. বর্তমানে আপনার এলাকায় কার্যক্রম শুরু হয়েছে কিনা তা দেখা, ২. অনলাইনে আবেদন ফরম পূরণ করা, ৩. নির্ধারিত পাসপোর্ট ফি পরিশোধ করা, ৪. ছবি ও আঙুলের ছাপের জন্য পাসপোর্ট অফিসে উপস্থিত হওয়া এবং ৫. পাসপোর্ট সংগ্রহ করা।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "passport_001"
+    ]
+  },
+  {
+    "doc_id": "passport_cov_002",
+    "domain": "passport",
+    "topic": "general",
+    "title": "প্রবাসী শ্রমিকের ৬৪ পৃষ্ঠা ৫ বছর এক্সপ্রেস ই-পাসপোর্টে কত ডলার লাগে",
+    "source_url": "https://epassport.gov.bd/instructions/passport-fees",
+    "source_name": "Bangladesh e-Passport Online Portal — Fees and Payment Options",
+    "last_checked": "2026-08-01",
+    "text": "বিদেশস্থ বাংলাদেশ মিশনে শ্রমিক ও শিক্ষার্থীদের জন্য ৬৪ পৃষ্ঠা ও ৫ বছর মেয়াদের ই-পাসপোর্টের এক্সপ্রেস ডেলিভারি ফি ২০০ মার্কিন ডলার।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "passport_179",
+      "passport_216",
+      "passport_241"
+    ]
+  },
+  {
+    "doc_id": "passport_cov_003",
+    "domain": "passport",
+    "topic": "general",
+    "title": "শিশুর পাসপোর্ট সংগ্রহে কী লাগবে",
+    "source_url": "https://www.epassport.gov.bd/landing/faqs/289",
+    "source_name": "Bangladesh e-Passport Online Portal — Minor Passport Collection FAQ",
+    "last_checked": "2026-08-01",
+    "text": "অপ্রাপ্তবয়স্কের পাসপোর্ট সংগ্রহে পিতা বা মাতাকে সরাসরি আসতে হবে; অন্য কেউ সংগ্রহ করলে তার এনআইডি এবং আবেদনকারীর পিতা বা মাতার অথরাইজেশন লেটার লাগবে।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "passport_291"
+    ]
+  },
+  {
+    "doc_id": "passport_cov_004",
+    "domain": "passport",
+    "topic": "fees",
+    "title": "পাসপোর্ট অফিসে না গিয়ে বায়োমেট্রিক করা যাবে",
+    "source_url": "https://epassport.gov.bd/instructions/passport-fees",
+    "source_name": "Bangladesh e-Passport Online Portal — Fees and Payment Options",
+    "last_checked": "2026-08-01",
+    "text": "না, বায়োমেট্রিক এনরোলমেন্টের জন্য নির্ধারিত পাসপোর্ট অফিসে উপস্থিত হতে হয়।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "passport_135"
+    ]
+  },
+  {
+    "doc_id": "passport_cov_005",
+    "domain": "passport",
+    "topic": "application_steps",
+    "title": "অফিসিয়াল পাসপোর্টের জন্য সরকারি চাকরিজীবী কীভাবে আবেদন করবে",
+    "source_url": "https://epassport.gov.bd/instructions/passport-fees",
+    "source_name": "Bangladesh e-Passport Online Portal — Fees and Payment Options",
+    "last_checked": "2026-08-01",
+    "text": "সরকারি চাকরিজীবীকে ওয়েব পোর্টালে আবেদন করার সময় সাধারণ পাসপোর্ট হিসেবে আবেদন করতে হবে; এনরোলমেন্টের সময় পাসপোর্ট অফিসে ক্যাটাগরি অফিসিয়াল হিসেবে পরিবর্তন করা হয়। অফিসিয়াল পাসপোর্টের ক্ষেত্রে অ্যাপয়েন্টমেন্ট শিডিউল লাগে না এবং সরকারি পাসপোর্ট ৫ বছর মেয়াদের হয়।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "passport_293",
+      "passport_299",
+      "passport_300",
+      "passport_301"
+    ]
+  },
+  {
+    "doc_id": "passport_cov_006",
+    "domain": "passport",
+    "topic": "general",
+    "title": "পূর্বের ই-পাসপোর্ট নম্বর মনে নেই, কীভাবে পাব",
+    "source_url": "https://epassport.gov.bd/instructions/passport-fees",
+    "source_name": "Bangladesh e-Passport Online Portal — Fees and Payment Options",
+    "last_checked": "2026-08-01",
+    "text": "পূর্ববর্তী ই-পাসপোর্ট নম্বর না জানলে প্রয়োজনীয় তথ্যের জন্য নির্ধারিত পাসপোর্ট অফিসে যোগাযোগ করুন। পূর্ববর্তী ই-পাসপোর্ট নম্বর সংগ্রহের জন্য এনআইডি ও বিআরসি নিয়ে যেতে বলা হয়েছে।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "passport_309",
+      "passport_310"
+    ]
+  },
+  {
+    "doc_id": "passport_cov_007",
+    "domain": "passport",
+    "topic": "biometric",
+    "title": "ই-পাসপোর্টে ছবি নিয়ে যেতে হবে",
+    "source_url": "https://epassport.gov.bd/instructions/passport-fees",
+    "source_name": "Bangladesh e-Passport Online Portal — Fees and Payment Options",
+    "last_checked": "2026-08-01",
+    "text": "সাধারণ আবেদনকারীর আলাদা ছবি নিয়ে যাওয়ার দরকার নেই; পাসপোর্ট অফিসে এনরোলমেন্টের সময় ডিজিটাল ক্যামেরায় ছবি তোলা হয়। তবে ৬ বছরের কম শিশুর ক্ষেত্রে ৩আর সাইজের ছবি লাগতে পারে এবং ১৫ বছরের কম আবেদনকারীর ক্ষেত্রে পিতা-মাতার ছবি দাখিলের নির্দেশনা আছে।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "passport_073",
+      "passport_074",
+      "passport_075",
+      "passport_076",
+      "passport_077",
+      "passport_079",
+      "passport_080",
+      "passport_081"
+    ]
+  },
+  {
+    "doc_id": "passport_cov_008",
+    "domain": "passport",
+    "topic": "general",
+    "title": "আগের পাসপোর্টের তথ্যের সাথে নতুন তথ্য না মিললে কী করব",
+    "source_url": "https://epassport.gov.bd/instructions/passport-fees",
+    "source_name": "Bangladesh e-Passport Online Portal — Fees and Payment Options",
+    "last_checked": "2026-08-01",
+    "text": "বর্তমান ঠিকানা, পেশা, জরুরি যোগাযোগ বা বৈবাহিক অবস্থা পরিবর্তন হলে নতুন তথ্য দিয়ে আবেদন করতে হবে। পেশা পরিবর্তনে পেশাগত সনদ বা স্টুডেন্ট আইডি, বৈবাহিক অবস্থায় বিবাহ সনদ, আর নাম/জন্মতারিখ/জন্মস্থান/পিতা-মাতার নাম পরিবর্তনে এনআইডি বা বিআরসি, পূর্ববর্তী পাসপোর্ট এবং প্রয়োজনীয় সহায়ক কাগজপত্র লাগতে পারে। এতে প্রসেসিং সময় বেশি লাগতে পারে।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "passport_122",
+      "passport_123",
+      "passport_124",
+      "passport_125",
+      "passport_126",
+      "passport_127",
+      "passport_128",
+      "passport_129"
+    ]
+  },
+  {
+    "doc_id": "passport_cov_009",
+    "domain": "passport",
+    "topic": "general",
+    "title": "দেশের ভিতরে ৪৮ পৃষ্ঠা ৫ বছর পাসপোর্টের সুপার এক্সপ্রেস চার্জ কত",
+    "source_url": "https://epassport.gov.bd/instructions/passport-fees",
+    "source_name": "Bangladesh e-Passport Online Portal — Fees and Payment Options",
+    "last_checked": "2026-08-01",
+    "text": "বাংলাদেশের অভ্যন্তরে ৪৮ পৃষ্ঠা ও ৫ বছর মেয়াদের ই-পাসপোর্টের সুপার এক্সপ্রেস ডেলিভারি ফি ১৫% ভ্যাটসহ ৮,৬২৫ টাকা।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "passport_163",
+      "passport_194",
+      "passport_232",
+      "passport_248"
+    ]
+  },
+  {
+    "doc_id": "passport_cov_010",
+    "domain": "passport",
+    "topic": "fees",
+    "title": "এক্সপ্রেস ৪৮ পৃষ্ঠা ৫ বছর ই-পাসপোর্টে কত টাকা লাগে",
+    "source_url": "https://epassport.gov.bd/instructions/passport-fees",
+    "source_name": "Bangladesh e-Passport Online Portal — Fees and Payment Options",
+    "last_checked": "2026-08-01",
+    "text": "বাংলাদেশের অভ্যন্তরে ৪৮ পৃষ্ঠা ও ৫ বছর মেয়াদের ই-পাসপোর্টের এক্সপ্রেস ডেলিভারি ফি ১৫% ভ্যাটসহ ৬,৩২৫ টাকা।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "passport_155",
+      "passport_161",
+      "passport_192",
+      "passport_246"
+    ]
+  },
+  {
+    "doc_id": "passport_cov_011",
+    "domain": "passport",
+    "topic": "general",
+    "title": "দেশের ভিতরে ৬৪ পৃষ্ঠা ১০ বছর পাসপোর্টের সুপার এক্সপ্রেস চার্জ কত",
+    "source_url": "https://epassport.gov.bd/instructions/passport-fees",
+    "source_name": "Bangladesh e-Passport Online Portal — Fees and Payment Options",
+    "last_checked": "2026-08-01",
+    "text": "বাংলাদেশের অভ্যন্তরে ৬৪ পৃষ্ঠা ও ১০ বছর মেয়াদের ই-পাসপোর্টের সুপার এক্সপ্রেস ডেলিভারি ফি ১৫% ভ্যাটসহ ১৩,৮০০ টাকা।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "passport_166",
+      "passport_197",
+      "passport_233",
+      "passport_251"
+    ]
+  },
+  {
+    "doc_id": "passport_cov_012",
+    "domain": "passport",
+    "topic": "general",
+    "title": "Passport e printing bhul thakle ki korbo",
+    "source_url": "https://epassport.gov.bd/instructions/passport-fees",
+    "source_name": "Bangladesh e-Passport Online Portal — Fees and Payment Options",
+    "last_checked": "2026-08-01",
+    "text": "১ মাসের মধ্যে পাসপোর্ট অফিসে জানাতে হবে।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "passport_026"
+    ]
+  },
+  {
+    "doc_id": "passport_cov_013",
+    "domain": "passport",
+    "topic": "general",
+    "title": "আমার পাসপোর্ট ঠিক কোন তারিখে আসবে বলুন",
+    "source_url": "https://epassport.gov.bd/instructions/passport-fees",
+    "source_name": "Bangladesh e-Passport Online Portal — Fees and Payment Options",
+    "last_checked": "2026-08-01",
+    "text": "আমি আপনার ব্যক্তিগত আবেদনের নির্দিষ্ট ডেলিভারি তারিখ দেখতে পারি না। অ্যাপ্লিকেশন আইডি বা অনলাইন রেজিস্ট্রেশন আইডি দিয়ে পোর্টালে স্ট্যাটাস চেক করুন।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "passport_131"
+    ]
+  },
+  {
+    "doc_id": "passport_cov_014",
+    "domain": "passport",
+    "topic": "general",
+    "title": "পাসপোর্ট এক্সপায়ার হলে জরিমানা দিতে হয়",
+    "source_url": "https://epassport.gov.bd/instructions/passport-fees",
+    "source_name": "Bangladesh e-Passport Online Portal — Fees and Payment Options",
+    "last_checked": "2026-08-01",
+    "text": "পাসপোর্টের মেয়াদ শেষ হলে আলাদা কোনো জরিমানা দিতে হয় না। রি-ইস্যু বা রিনিউ করার ক্ষেত্রে সরকার নির্ধারিত ফি দিতে হবে।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "passport_277"
+    ]
+  },
+  {
+    "doc_id": "passport_cov_015",
+    "domain": "passport",
+    "topic": "payment",
+    "title": "অফলাইন পেমেন্ট করলে কোন স্লিপ লাগবে",
+    "source_url": "https://www.epassport.gov.bd/landing/faqs/3",
+    "source_name": "Bangladesh e-Passport Online Portal — Enrollment Documents FAQ",
+    "last_checked": "2026-08-01",
+    "text": "অফলাইন পেমেন্ট করলে এ-চালানের পেমেন্ট স্লিপ বা চালান রশিদ এনরোলমেন্টের সময় সঙ্গে রাখতে হবে।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "passport_137"
+    ]
+  },
+  {
+    "doc_id": "passport_cov_016",
+    "domain": "passport",
+    "topic": "general",
+    "title": "মাল্টিপল অ্যাকটিভ পাসপোর্ট থাকলে কী করতে হবে",
+    "source_url": "https://www.epassport.gov.bd/landing/notices/160",
+    "source_name": "Bangladesh e-Passport Online Portal — Enrollment Checklist",
+    "last_checked": "2026-08-01",
+    "text": "চেকলিস্ট অনুযায়ী মাল্টিপল অ্যাকটিভ পাসপোর্টের ক্ষেত্রে নির্ধারিত ফরম্যাটে পূরণকৃত অঙ্গীকারনামা লাগতে পারে।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "passport_105"
+    ]
+  },
+  {
+    "doc_id": "passport_cov_017",
+    "domain": "passport",
+    "topic": "general",
+    "title": "Ekti mobile number diye ki multiple account khola jay",
+    "source_url": "https://www.epassport.gov.bd/landing/faqs",
+    "source_name": "Bangladesh e-Passport Online Portal — FAQ",
+    "last_checked": "2026-08-01",
+    "text": "না, একটি নম্বর দিয়ে একটি অ্যাকাউন্টই খোলা যাবে।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "passport_028"
+    ]
+  },
+  {
+    "doc_id": "passport_cov_018",
+    "domain": "passport",
+    "topic": "general",
+    "title": "Ami jodi nije passport collect korte na pari tobe ki onno keu parbe",
+    "source_url": "https://epassport.gov.bd/instructions/passport-fees",
+    "source_name": "Bangladesh e-Passport Online Portal — Fees and Payment Options",
+    "last_checked": "2026-08-01",
+    "text": "হ্যাঁ, অনুমোদিত প্রতিনিধি পাসপোর্ট নিতে পারবে। তার কাছে আবেদনকারীর ডেলিভারি স্লিপ, নিজের NID এবং Authorization Letter থাকতে হবে।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "passport_012"
+    ]
+  },
+  {
+    "doc_id": "passport_cov_019",
+    "domain": "passport",
+    "topic": "general",
+    "title": "Amar boyos 21 kintu NID nai, ami ki BRC diye e-passport korte parbo",
+    "source_url": "https://www.epassport.gov.bd/landing/notices/160",
+    "source_name": "Bangladesh e-Passport Online Portal — Enrollment Checklist",
+    "last_checked": "2026-08-01",
+    "text": "না, কারণ ২০ বছরের বেশি বয়সী নাগরিকদের জন্য ই-পাসপোর্ট আবেদনে জাতীয় পরিচয়পত্র (NID) প্রদান করা বাধ্যতামূলক।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "passport_004"
+    ]
+  },
+  {
+    "doc_id": "passport_cov_020",
+    "domain": "passport",
+    "topic": "general",
+    "title": "১৮ বছরের কম বয়সীদের পাসপোর্টের মেয়াদ ও পৃষ্ঠার সংখ্যা কত হবে",
+    "source_url": "https://www.epassport.gov.bd/landing/faqs",
+    "source_name": "Bangladesh e-Passport Online Portal — FAQ",
+    "last_checked": "2026-08-01",
+    "text": "১৮ বছরের কম বয়সী সকল আবেদনকারীর ই-পাসপোর্টের মেয়াদ হবে ৫ বছর এবং এটি অবশ্যই ৪৮ পৃষ্ঠার হবে।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "passport_005"
+    ]
+  },
+  {
+    "doc_id": "passport_cov_021",
+    "domain": "passport",
+    "topic": "fees",
+    "title": "বাংলাদেশ মিশনে ৪৮ পৃষ্ঠা ৫ বছর রেগুলার ফি কত",
+    "source_url": "https://epassport.gov.bd/instructions/passport-fees",
+    "source_name": "Bangladesh e-Passport Online Portal — Fees and Payment Options",
+    "last_checked": "2026-08-01",
+    "text": "বিদেশস্থ বাংলাদেশ মিশনে সাধারণ আবেদনকারীর জন্য ৪৮ পৃষ্ঠা ও ৫ বছর মেয়াদের ই-পাসপোর্টের রেগুলার ডেলিভারি ফি ১০০ মার্কিন ডলার।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "passport_184",
+      "passport_204",
+      "passport_222"
+    ]
+  },
+  {
+    "doc_id": "passport_cov_022",
+    "domain": "passport",
+    "topic": "general",
+    "title": "Delivery slip harale ki korbo",
+    "source_url": "https://www.epassport.gov.bd/landing/faqs",
+    "source_name": "Bangladesh e-Passport Online Portal — FAQ",
+    "last_checked": "2026-08-01",
+    "text": "Print summary, NID এবং সম্ভব হলে slip copy নিয়ে পাসপোর্ট সংগ্রহ করা যাবে।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "passport_023"
+    ]
+  },
+  {
+    "doc_id": "passport_cov_023",
+    "domain": "passport",
+    "topic": "general",
+    "title": "Mobile e SMS na pele ki passport nite parbo",
+    "source_url": "https://www.epassport.gov.bd/landing/faqs",
+    "source_name": "Bangladesh e-Passport Online Portal — FAQ",
+    "last_checked": "2026-08-01",
+    "text": "হ্যাঁ, ইমেইল থাকলে পাসপোর্ট সংগ্রহ করা যাবে।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "passport_027"
+    ]
+  },
+  {
+    "doc_id": "passport_cov_024",
+    "domain": "passport",
+    "topic": "fees",
+    "title": "বিদেশের মিশন থেকে ৪৮ পৃষ্ঠা ও ১০ বছর মেয়াদী পাসপোর্টের এক্সপ্রেস ফি কত",
+    "source_url": "https://epassport.gov.bd/instructions/passport-fees",
+    "source_name": "Bangladesh e-Passport Online Portal — Fees and Payment Options",
+    "last_checked": "2026-08-01",
+    "text": "১৭৫ মার্কিন ডলার।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "passport_039",
+      "passport_042"
+    ]
+  },
+  {
+    "doc_id": "passport_cov_025",
+    "domain": "passport",
+    "topic": "delivery_time",
+    "title": "দেশের ভেতরে জরুরি পাসপোর্টে পুলিশ ক্লিয়ারেন্স দিলে কত দিনে পাব",
+    "source_url": "https://epassport.gov.bd/instructions/passport-fees",
+    "source_name": "Bangladesh e-Passport Online Portal — Fees and Payment Options",
+    "last_checked": "2026-08-01",
+    "text": "দেশের অভ্যন্তরে জরুরি পাসপোর্টের আবেদনের সাথে পুলিশ ক্লিয়ারেন্স দাখিল করা হলে এবং অন্যান্য তথ্য সঠিক থাকলে ৭ কর্মদিবসের মধ্যে পাসপোর্ট প্রদান করা হয়।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "passport_088"
+    ]
+  },
+  {
+    "doc_id": "passport_cov_026",
+    "domain": "passport",
+    "topic": "general",
+    "title": "পূর্বের পাসপোর্ট আর এনআইডির তথ্য না মিললে কী দিতে হবে",
+    "source_url": "https://www.epassport.gov.bd/landing/notices/160",
+    "source_name": "Bangladesh e-Passport Online Portal — Enrollment Checklist",
+    "last_checked": "2026-08-01",
+    "text": "চেকলিস্ট অনুযায়ী পূর্বের পাসপোর্ট এবং এনআইডি বা বিআরসিতে তথ্য গরমিল থাকলে নির্ধারিত ফরম্যাটে পূরণকৃত অঙ্গীকারনামা লাগতে পারে।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "passport_103"
+    ]
+  },
+  {
+    "doc_id": "passport_cov_027",
+    "domain": "passport",
+    "topic": "correction",
+    "title": "আমার এনআইডি তথ্য ভুল, পাসপোর্টে অন্য তথ্য দিলে হবে",
+    "source_url": "https://www.epassport.gov.bd/landing/faqs",
+    "source_name": "Bangladesh e-Passport Online Portal — FAQ",
+    "last_checked": "2026-08-01",
+    "text": "পাসপোর্ট আবেদন এনআইডি বা বিআরসি অনুযায়ী করতে হবে। তথ্য ভুল হলে আগে সংশ্লিষ্ট কর্তৃপক্ষের মাধ্যমে সঠিক করার পর আবেদন করা নিরাপদ।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "passport_130"
+    ]
+  },
+  {
+    "doc_id": "passport_cov_028",
+    "domain": "passport",
+    "topic": "fees",
+    "title": "সরকারি চাকরিজীবীরা নিয়মিত ফি জমা দিয়ে কি জরুরী সুবিধা পেতে পারেন",
+    "source_url": "https://epassport.gov.bd/instructions/passport-fees",
+    "source_name": "Bangladesh e-Passport Online Portal — Fees and Payment Options",
+    "last_checked": "2026-08-01",
+    "text": "হ্যাঁ, সরকারি চাকরিজীবীরা যাদের অনাপত্তি সনদ (NOC) বা PRL Order আছে, তারা নিয়মিত ফি জমা দিয়েও জরুরী সুবিধা এবং জরুরী ফি জমা দিয়ে অতীব জরুরী সুবিধা পেতে পারেন।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "passport_007"
+    ]
   }
 ]

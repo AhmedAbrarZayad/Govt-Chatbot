@@ -558,5 +558,650 @@
     "source_name": "NBR e-TIN Portal",
     "last_checked": "2026-07-05",
     "text": "কোম্পানির ই-টিআইএন আবেদন শুরু করার আগে অন্তত একটি সচল ও অনন্য মোবাইল নম্বর, বৈধ ই-মেইল, কোম্পানির নিবন্ধিত নাম, আরজেএসসি ইনকরপোরেশন নম্বর ও তারিখ, নিবন্ধিত ঠিকানা এবং অনুমোদিত ব্যক্তির তথ্য প্রস্তুত রাখা উচিত। প্রয়োজন হলে কোম্পানির ইনকরপোরেশন সার্টিফিকেট, ট্রেড লাইসেন্স, মেমোরেন্ডাম-আর্টিকেলস ও পরিচয়পত্রও কাছে রাখা ভালো।"
+  },
+  {
+    "doc_id": "tin_cov_001",
+    "domain": "tin",
+    "topic": "application_process",
+    "title": "টিআইএন ব্যবহারকারী আইডি বা পাসওয়ার্ড ভুলে গেলে কী করতে হবে",
+    "source_url": "https://www.incometax.gov.bd/",
+    "source_name": "National Board of Revenue e-TIN Portal",
+    "last_checked": "2026-08-01",
+    "text": "incometax.gov.bd পোর্টালে নিবন্ধিত মোবাইল নম্বর বা ই-মেইল ব্যবহার করে ‘ফরগট পাসওয়ার্ড’ বা রিকভারি অপশন ব্যবহার করতে হবে।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_098"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_002",
+    "domain": "tin",
+    "topic": "uses_importance",
+    "title": "কোম্পানি কি আমদানি ও রপ্তানি কার্যক্রমের জন্য টিআইএন ব্যবহার করতে পারে",
+    "source_url": "https://www.incometax.gov.bd/",
+    "source_name": "National Board of Revenue e-TIN Portal",
+    "last_checked": "2026-08-01",
+    "text": "হ্যাঁ, আমদানি ও রপ্তানি কার্যক্রমের জন্য টিআইএন প্রয়োজন হয়।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_215"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_003",
+    "domain": "tin",
+    "topic": "application_process",
+    "title": "বর্তমান অফিসিয়াল গাইডে টিআইএন আবেদনের সুপারিশকৃত পদ্ধতি কী",
+    "source_url": "https://resource.ogrlegal.com/licences/basic/tin/",
+    "source_name": "OGR Legal — TIN Application Process Guide and Flowchart",
+    "last_checked": "2026-08-01",
+    "text": "নিবেদিত ই-টিআইএন পোর্টালের মাধ্যমে সম্পূর্ণ অনলাইনে আবেদন করা সুপারিশ করা হয়েছে।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_226"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_004",
+    "domain": "tin",
+    "topic": "required_documents",
+    "title": "বাংলাদেশি ও বিদেশি মালিকানাধীন কোম্পানির টিআইএন প্রক্রিয়া কি একই",
+    "source_url": "https://www.incometax.gov.bd/",
+    "source_name": "National Board of Revenue e-TIN Portal",
+    "last_checked": "2026-08-01",
+    "text": "অনলাইন প্রক্রিয়া মূলত একই, তবে বিদেশি কোম্পানিকে শাখা বা লিয়াজোঁ অফিস নিবন্ধনের মতো অতিরিক্ত দলিল দিতে হতে পারে।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_087"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_005",
+    "domain": "tin",
+    "topic": "legal_framework",
+    "title": "টিআইএন ইস্যুর সময় এনবিআরের প্রধান লক্ষ্য কী",
+    "source_url": "https://resource.ogrlegal.com/licences/basic/tin/",
+    "source_name": "OGR Legal — NBR Authority and Contact Details",
+    "last_checked": "2026-08-01",
+    "text": "কর আইন কার্যকরভাবে পরিচালনা, পরিপালন পর্যবেক্ষণ এবং স্বচ্ছতা নিশ্চিত করা এনবিআরের প্রধান লক্ষ্য।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_214"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_006",
+    "domain": "tin",
+    "topic": "contact_support",
+    "title": "টিআইএন নিবন্ধনে পেশাদার সহায়তার জন্য কার সঙ্গে যোগাযোগ করা যায়",
+    "source_url": "https://resource.ogrlegal.com/licences/basic/tin/",
+    "source_name": "OGR Legal — Tax Identification Number for Companies in Bangladesh",
+    "last_checked": "2026-08-01",
+    "text": "পেশাদার সহায়তার জন্য হাবিব মোরশেদ (+8801678148367, morshed@ogrlegal.com) অথবা সাজ্জাদ হোসেন (+8801682571960, Sazzad@ogrlegal.com)-এর সঙ্গে যোগাযোগ করা যায়।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_040"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_007",
+    "domain": "tin",
+    "topic": "fees",
+    "title": "এফএম অ্যাসোসিয়েটস গাইডে ই-টিআইএনের প্রধান সুবিধা কী বলা হয়েছে",
+    "source_url": "https://fmassociatesbd.com/licensing/how-to-obtain-tax-identification-number-tin-certificate-in-bangladesh/",
+    "source_name": "FM Associates — TIN Certificate Guide",
+    "last_checked": "2026-08-01",
+    "text": "প্রক্রিয়াটি সহজ, ঝামেলামুক্ত ও ডিজিটাল হওয়ায় সময় বাঁচে এবং ঝামেলা কমে।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_197"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_008",
+    "domain": "tin",
+    "topic": "application_process",
+    "title": "সরকারি দরপত্রে টিআইএন থাকার একটি প্রধান সুবিধা কী",
+    "source_url": "https://www.incometax.gov.bd/",
+    "source_name": "National Board of Revenue e-TIN Portal",
+    "last_checked": "2026-08-01",
+    "text": "বাংলাদেশে সরকারি দরপত্র বা ক্রয় প্রক্রিয়ায় অংশগ্রহণের জন্য বৈধ টিআইএন বাধ্যতামূলক।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_088"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_009",
+    "domain": "tin",
+    "topic": "contact_support",
+    "title": "এফএম অ্যাসোসিয়েটস গাইডে ডিজিটালাইজেশনের প্রধান সুবিধা কী বলা হয়েছে",
+    "source_url": "https://fmassociatesbd.com/licensing/how-to-obtain-tax-identification-number-tin-certificate-in-bangladesh/",
+    "source_name": "FM Associates — TIN Certificate Guide",
+    "last_checked": "2026-08-01",
+    "text": "ডিজিটালাইজেশনের ফলে অনেক ঝামেলা ও সময় সাশ্রয় হয়েছে।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_219"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_010",
+    "domain": "tin",
+    "topic": "fees",
+    "title": "অফিসিয়াল গাইডে এনবিআরের কয়টি যোগাযোগ ই-মেইল দেওয়া আছে",
+    "source_url": "https://resource.ogrlegal.com/licences/basic/tin/",
+    "source_name": "OGR Legal — TIN Application Process Guide and Flowchart",
+    "last_checked": "2026-08-01",
+    "text": "অফিসিয়াল গাইডে তিনটি ফিডব্যাক ই-মেইল দেওয়া আছে।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_182"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_011",
+    "domain": "tin",
+    "topic": "application_process",
+    "title": "ফ্লোচার্টে চূড়ান্ত আবেদন জমা দেওয়ার ঠিক আগের ধাপ কী",
+    "source_url": "https://resource.ogrlegal.com/licences/basic/tin/",
+    "source_name": "OGR Legal — TIN Application Process Guide and Flowchart",
+    "last_checked": "2026-08-01",
+    "text": "চূড়ান্ত আবেদন জমা দেওয়ার ঠিক আগের ধাপ হলো আবেদন সারাংশ পর্যালোচনা করা।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_041"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_012",
+    "domain": "tin",
+    "topic": "application_process",
+    "title": "বাংলাদেশে কোন কর্তৃপক্ষ টিআইএন সার্টিফিকেট ইস্যু করে",
+    "source_url": "https://nbr.gov.bd/",
+    "source_name": "National Board of Revenue, Bangladesh",
+    "last_checked": "2026-08-01",
+    "text": "বাংলাদেশে টিআইএন ইস্যু ও পরিচালনার একমাত্র সরকারি কর্তৃপক্ষ হলো জাতীয় রাজস্ব বোর্ড বা এনবিআর। সাধারণত incometax.gov.bd ই-টিআইএন পোর্টালের মাধ্যমে এই প্রক্রিয়া সম্পন্ন হয়।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_002"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_013",
+    "domain": "tin",
+    "topic": "application_process",
+    "title": "প্রথম চেষ্টায় ভুল হলে কতবার রেজিস্ট্রেশন চেষ্টা করা যায়",
+    "source_url": "https://www.incometax.gov.bd/",
+    "source_name": "National Board of Revenue e-TIN Portal",
+    "last_checked": "2026-08-01",
+    "text": "সফলভাবে সম্পন্ন না হওয়া পর্যন্ত প্রয়োজন অনুযায়ী রেজিস্ট্রেশন প্রক্রিয়া পুনরায় শুরু করা যায়।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_072"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_014",
+    "domain": "tin",
+    "topic": "application_process",
+    "title": "কোন ফ্লোচার্ট ছবিতে বিস্তারিত অনলাইন আবেদন ফরম পূরণ থেকে টিআইএন সার্টিফিকেট ডাউনলোড বা প্র",
+    "source_url": "https://resource.ogrlegal.com/licences/basic/tin/",
+    "source_name": "OGR Legal — TIN Application Process Guide and Flowchart",
+    "last_checked": "2026-08-01",
+    "text": "TIN_2.png ফ্লোচার্টে এই ধাপগুলো দেখানো হয়েছে।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_152"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_015",
+    "domain": "tin",
+    "topic": "contact_support",
+    "title": "টিআইএন সহায়তার প্রথম যোগাযোগ ব্যক্তির ফোন নম্বর কী",
+    "source_url": "https://resource.ogrlegal.com/licences/basic/tin/",
+    "source_name": "OGR Legal — Tax Identification Number for Companies in Bangladesh",
+    "last_checked": "2026-08-01",
+    "text": "প্রথম যোগাযোগ ব্যক্তি হাবিব মোরশেদের ফোন নম্বর হলো +8801678148367।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_115"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_016",
+    "domain": "tin",
+    "topic": "contact_support",
+    "title": "টিআইএন সহায়তার জন্য কতজন যোগাযোগ ব্যক্তির নাম দেওয়া আছে",
+    "source_url": "https://resource.ogrlegal.com/licences/basic/tin/",
+    "source_name": "OGR Legal — Tax Identification Number for Companies in Bangladesh",
+    "last_checked": "2026-08-01",
+    "text": "টিআইএন সহায়তার জন্য দুইজনের নাম দেওয়া আছে: হাবিব মোরশেদ ও সাজ্জাদ হোসেন।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_057"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_017",
+    "domain": "tin",
+    "topic": "fees",
+    "title": "বিদেশি বিনিয়োগকারীদের জন্যও কি টিআইএন প্রক্রিয়া বিনামূল্যে",
+    "source_url": "https://www.incometax.gov.bd/",
+    "source_name": "National Board of Revenue e-TIN Portal",
+    "last_checked": "2026-08-01",
+    "text": "হ্যাঁ। কোম্পানি দেশীয় বা বিদেশি মালিকানাধীন যাই হোক, টিআইএন নেওয়ার জন্য কোনো সরকারি ফি নেই।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_108"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_018",
+    "domain": "tin",
+    "topic": "contact_support",
+    "title": "অফিসিয়াল গাইডের দ্বিতীয় যোগাযোগ ব্যক্তির সঠিক ফোন নম্বর কী",
+    "source_url": "https://resource.ogrlegal.com/licences/basic/tin/",
+    "source_name": "OGR Legal — Tax Identification Number for Companies in Bangladesh",
+    "last_checked": "2026-08-01",
+    "text": "দ্বিতীয় যোগাযোগ ব্যক্তি সাজ্জাদ হোসেনের ফোন নম্বর +8801682571960।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_222"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_019",
+    "domain": "tin",
+    "topic": "contact_support",
+    "title": "হাবিব মোরশেদের সঠিক ফোন নম্বর কী",
+    "source_url": "https://resource.ogrlegal.com/licences/basic/tin/",
+    "source_name": "OGR Legal — Tax Identification Number for Companies in Bangladesh",
+    "last_checked": "2026-08-01",
+    "text": "হাবিব মোরশেদের ফোন নম্বর +8801678148367।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_183"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_020",
+    "domain": "tin",
+    "topic": "application_process",
+    "title": "তিনটি ছবিতে মোট কয়টি ফ্লোচার্ট দেওয়া হয়েছে",
+    "source_url": "https://resource.ogrlegal.com/licences/basic/tin/",
+    "source_name": "OGR Legal — TIN Application Process Guide and Flowchart",
+    "last_checked": "2026-08-01",
+    "text": "মোট তিনটি আলাদা ফ্লোচার্ট দেওয়া হয়েছে, যা প্রক্রিয়ার ভিন্ন অংশ দেখায়।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_169"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_021",
+    "domain": "tin",
+    "topic": "foreign_company",
+    "title": "দুই উৎস অনুযায়ী কোম্পানি কি টিআইএন ছাড়া পরিচালনা করা যায়",
+    "source_url": "https://www.incometax.gov.bd/",
+    "source_name": "National Board of Revenue e-TIN Portal",
+    "last_checked": "2026-08-01",
+    "text": "না। কোম্পানি, শাখা অফিস এবং লিয়াজোঁ অফিসসহ সব ব্যবসায়িক প্রতিষ্ঠানের জন্য টিআইএন বাধ্যতামূলক।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_187"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_022",
+    "domain": "tin",
+    "topic": "tax_compliance",
+    "title": "কোম্পানির টিআইএন কি পরিচালকদের ব্যক্তিগত করের জন্য ব্যবহার করা যায়",
+    "source_url": "https://www.incometax.gov.bd/",
+    "source_name": "National Board of Revenue e-TIN Portal",
+    "last_checked": "2026-08-01",
+    "text": "না। কোম্পানির টিআইএন কর্পোরেট কর পরিপালনের জন্য। পরিচালকদের ব্যক্তিগত আয়করের জন্য আলাদা ব্যক্তিগত টিআইএন লাগতে পারে।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_051"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_023",
+    "domain": "tin",
+    "topic": "application_process",
+    "title": "এফএম অ্যাসোসিয়েটস অনুযায়ী ই-টিআইএন পাওয়ার প্রথম ধাপ কী",
+    "source_url": "https://fmassociatesbd.com/licensing/how-to-obtain-tax-identification-number-tin-certificate-in-bangladesh/",
+    "source_name": "FM Associates — TIN Certificate Guide",
+    "last_checked": "2026-08-01",
+    "text": "প্রথম ধাপ হলো https://secure.incometax.gov.bd/TINHome ওয়েবসাইটে গিয়ে ব্যবহারকারী আইডি তৈরি করা।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_145"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_024",
+    "domain": "tin",
+    "topic": "application_process",
+    "title": "অফিসিয়াল গাইডে অনলাইন টিআইএনের সঠিক প্রসেসিং সময় কত",
+    "source_url": "https://resource.ogrlegal.com/licences/basic/tin/",
+    "source_name": "OGR Legal — TIN Application Process Guide and Flowchart",
+    "last_checked": "2026-08-01",
+    "text": "অফিসিয়াল গাইডে অনলাইন টিআইএনের প্রসেসিং সময় ১৫ থেকে ২০ মিনিট বলা হয়েছে।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_234"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_025",
+    "domain": "tin",
+    "topic": "required_documents",
+    "title": "এফএম অ্যাসোসিয়েটস অনুযায়ী ব্যক্তিগত অনলাইন আবেদন শুরু করার আগে কী কী লাগে",
+    "source_url": "https://fmassociatesbd.com/licensing/how-to-obtain-tax-identification-number-tin-certificate-in-bangladesh/",
+    "source_name": "FM Associates — TIN Certificate Guide",
+    "last_checked": "2026-08-01",
+    "text": "আবেদনকারীর ঠিকানা, ফোন নম্বর, জাতীয় পরিচয়পত্র বা পাসপোর্টের কপি এবং ব্যক্তিগত তথ্য দরকার হয়।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_156"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_026",
+    "domain": "tin",
+    "topic": "required_documents",
+    "title": "ম্যানুয়াল টিআইএন আবেদনে আবেদনকারী কোম্পানি হলে কোন ডকুমেন্ট বাধ্যতামূলক",
+    "source_url": "https://fmassociatesbd.com/licensing/how-to-obtain-tax-identification-number-tin-certificate-in-bangladesh/",
+    "source_name": "FM Associates — TIN Manual Checklist",
+    "last_checked": "2026-08-01",
+    "text": "কোম্পানি হলে কোম্পানি ইনকরপোরেশন সার্টিফিকেট এবং মেমোরেন্ডাম ও আর্টিকেলস অব অ্যাসোসিয়েশনের কপি বাধ্যতামূলক।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_130"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_027",
+    "domain": "tin",
+    "topic": "application_process",
+    "title": "সাপ্তাহিক ছুটি বা সরকারি ছুটির দিনে কি টিআইএন আবেদন করা যায়",
+    "source_url": "https://www.incometax.gov.bd/",
+    "source_name": "National Board of Revenue e-TIN Portal",
+    "last_checked": "2026-08-01",
+    "text": "হ্যাঁ। অনলাইন পোর্টাল ২৪ ঘণ্টা চালু থাকে এবং অফিস সময়ের বাইরে বা ছুটির দিনেও সার্টিফিকেট তাৎক্ষণিকভাবে তৈরি হতে পারে।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_060"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_028",
+    "domain": "tin",
+    "topic": "application_process",
+    "title": "এসএমএস অ্যাক্টিভেশন কোড না এলে কী করতে হবে",
+    "source_url": "https://www.incometax.gov.bd/",
+    "source_name": "National Board of Revenue e-TIN Portal",
+    "last_checked": "2026-08-01",
+    "text": "দেওয়া মোবাইল নম্বর সঠিক কিনা যাচাই করতে হবে, কিছু সময় অপেক্ষা করতে হবে অথবা প্রয়োজনে রেজিস্ট্রেশন প্রক্রিয়া আবার শুরু করতে হবে। নম্বরটি সচল ও নেটওয়ার্কযুক্ত হওয়া দরকার।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_056"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_029",
+    "domain": "tin",
+    "topic": "required_documents",
+    "title": "কোম্পানি ইনকরপোরেশন শেষ হওয়ার আগে কি টিআইএন আবেদন করা যায়",
+    "source_url": "https://www.incometax.gov.bd/",
+    "source_name": "National Board of Revenue e-TIN Portal",
+    "last_checked": "2026-08-01",
+    "text": "না। টিআইএন আবেদনে আরজেএসসি থেকে প্রাপ্ত ইনকরপোরেশন নম্বর ও তারিখ লাগে, তাই আগে কোম্পানি নিবন্ধন সম্পন্ন হতে হবে।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_024"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_030",
+    "domain": "tin",
+    "topic": "validity_renewal",
+    "title": "টিআইএন সার্টিফিকেট কি নির্দিষ্ট মেয়াদের জন্য নাকি স্থায়ী",
+    "source_url": "https://www.incometax.gov.bd/",
+    "source_name": "National Board of Revenue e-TIN Portal",
+    "last_checked": "2026-08-01",
+    "text": "টিআইএন একটি স্থায়ী নম্বর। এটি নিয়মিত বা নির্দিষ্ট সময় পর নবায়ন করতে হয় না।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_008"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_031",
+    "domain": "tin",
+    "topic": "uses_importance",
+    "title": "বাংলাদেশে কোম্পানির জন্য টিআইএন সার্টিফিকেটের প্রধান ব্যবহার কী কী",
+    "source_url": "https://www.incometax.gov.bd/",
+    "source_name": "National Board of Revenue e-TIN Portal",
+    "last_checked": "2026-08-01",
+    "text": "কোম্পানির টিআইএন কর্পোরেট ব্যাংক হিসাব খোলা ও পরিচালনা, বার্ষিক আয়কর রিটার্ন দাখিল, বিভিন্ন ব্যবসায়িক লাইসেন্স ও অনুমতি নেওয়া, সরকারি দরপত্রে অংশগ্রহণ এবং আমদানি-রপ্তানি কার্যক্রমে ব্যবহৃত হয়।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_009"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_032",
+    "domain": "tin",
+    "topic": "application_process",
+    "title": "টিআইএন আবেদন সফলভাবে জমা দেওয়ার পর কী করতে হবে",
+    "source_url": "https://www.incometax.gov.bd/",
+    "source_name": "National Board of Revenue e-TIN Portal",
+    "last_checked": "2026-08-01",
+    "text": "সার্টিফিকেট তাৎক্ষণিকভাবে তৈরি হওয়ার জন্য অপেক্ষা করতে হবে, তারপর সেটি ডাউনলোড, প্রিন্ট এবং লগইন তথ্য নিরাপদে সংরক্ষণ করতে হবে।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_109"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_033",
+    "domain": "tin",
+    "topic": "application_process",
+    "title": "TIN_1.png ফ্লোচার্টের প্রথম বাক্সে কী আছে",
+    "source_url": "https://resource.ogrlegal.com/licences/basic/tin/",
+    "source_name": "OGR Legal — TIN Application Process Guide and Flowchart",
+    "last_checked": "2026-08-01",
+    "text": "প্রথম বাক্সে আছে: এনবিআর ই-টিআইএন পোর্টাল incometax.gov.bd-এ প্রবেশ।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_153"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_034",
+    "domain": "tin",
+    "topic": "application_process",
+    "title": "নতুন নিবন্ধিত কোম্পানির কর পরিপালনের প্রথম কাজ কী হওয়া উচিত",
+    "source_url": "https://www.incometax.gov.bd/",
+    "source_name": "National Board of Revenue e-TIN Portal",
+    "last_checked": "2026-08-01",
+    "text": "নতুন নিবন্ধিত কোম্পানির প্রথম কাজ হওয়া উচিত এনবিআর ই-টিআইএন পোর্টাল থেকে টিআইএন নেওয়া, কারণ ব্যাংক হিসাব খোলা, রিটার্ন দাখিল এবং অন্যান্য লাইসেন্সের আগে এটি মৌলিক প্রয়োজন।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_023"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_035",
+    "domain": "tin",
+    "topic": "required_documents",
+    "title": "ম্যানুয়াল চেকলিস্টে কোন ডকুমেন্টটি কোম্পানির জন্য লাগে কিন্তু প্রোপ্রাইটরশিপের জন্য নয়",
+    "source_url": "https://fmassociatesbd.com/licensing/how-to-obtain-tax-identification-number-tin-certificate-in-bangladesh/",
+    "source_name": "FM Associates — TIN Manual Checklist",
+    "last_checked": "2026-08-01",
+    "text": "মেমোরেন্ডাম অব অ্যাসোসিয়েশন এবং আর্টিকেলস অব অ্যাসোসিয়েশনের কপি কোম্পানির জন্য লাগে।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_141",
+      "tin_191"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_036",
+    "domain": "tin",
+    "topic": "application_process",
+    "title": "টিআইএন সার্টিফিকেট পাওয়ার পর সুপারিশকৃত পরবর্তী ধাপ কী",
+    "source_url": "https://www.incometax.gov.bd/",
+    "source_name": "National Board of Revenue e-TIN Portal",
+    "last_checked": "2026-08-01",
+    "text": "কর্পোরেট ব্যাংক হিসাব খোলা এবং অন্যান্য ব্যবসায়িক লাইসেন্সের জন্য আবেদন করা।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_233"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_037",
+    "domain": "tin",
+    "topic": "contact_support",
+    "title": "অফিসিয়াল গাইডে এনবিআরের ঠিকানা কী",
+    "source_url": "https://resource.ogrlegal.com/licences/basic/tin/",
+    "source_name": "OGR Legal — TIN Application Process Guide and Flowchart",
+    "last_checked": "2026-08-01",
+    "text": "অফিসিয়াল গাইডে এনবিআরের ঠিকানা সেগুনবাগিচা, ঢাকা-১০০০ বলা হয়েছে।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_176"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_038",
+    "domain": "tin",
+    "topic": "application_process",
+    "title": "অফিসিয়াল টিআইএন আবেদন ফ্লোচার্টে কয়টি ধাপ দেখানো হয়েছে",
+    "source_url": "https://resource.ogrlegal.com/licences/basic/tin/",
+    "source_name": "OGR Legal — TIN Application Process Guide and Flowchart",
+    "last_checked": "2026-08-01",
+    "text": "অফিসিয়াল ফ্লোচার্টে পোর্টালে প্রবেশ থেকে কোম্পানির টিআইএন পাওয়া পর্যন্ত মোট ১০টি প্রধান ধাপ দেখানো হয়েছে।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_027"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_039",
+    "domain": "tin",
+    "topic": "validity_renewal",
+    "title": "অফিসিয়াল গাইড অনুযায়ী টিআইএনের মেয়াদ কত",
+    "source_url": "https://resource.ogrlegal.com/licences/basic/tin/",
+    "source_name": "OGR Legal — TIN Application Process Guide and Flowchart",
+    "last_checked": "2026-08-01",
+    "text": "টিআইএন স্থায়ী এবং নির্দিষ্ট সময় পর নবায়নের প্রয়োজন নেই।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_193"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_040",
+    "domain": "tin",
+    "topic": "application_process",
+    "title": "টিআইএন পাওয়ার পর কোম্পানির পরবর্তী গুরুত্বপূর্ণ কর পরিপালন ধাপ কী",
+    "source_url": "https://www.incometax.gov.bd/",
+    "source_name": "National Board of Revenue e-TIN Portal",
+    "last_checked": "2026-08-01",
+    "text": "টিআইএন পাওয়ার পর বার্ষিক আয়কর রিটার্ন দাখিল করা এবং প্রযোজ্য ক্ষেত্রে ভ্যাট পরিপালন নিশ্চিত করা গুরুত্বপূর্ণ।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_036"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_041",
+    "domain": "tin",
+    "topic": "legal_framework",
+    "title": "গাইড অনুযায়ী টিআইএন ব্যবস্থার প্রধান উদ্দেশ্য কী",
+    "source_url": "https://nbr.gov.bd/",
+    "source_name": "National Board of Revenue, Bangladesh",
+    "last_checked": "2026-08-01",
+    "text": "জাতীয় রাজস্ব বোর্ডকে কর আইন কার্যকরভাবে পরিচালনা, কর পরিপালন পর্যবেক্ষণ এবং কর্পোরেট আর্থিক কার্যক্রমে স্বচ্ছতা নিশ্চিত করতে সহায়তা করা হলো টিআইএন ব্যবস্থার প্রধান উদ্দেশ্য।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_058"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_042",
+    "domain": "tin",
+    "topic": "account_recovery",
+    "title": "টিআইএন সার্টিফিকেট ডাউনলোডের পর একেবারে শেষ কাজ কী",
+    "source_url": "https://www.incometax.gov.bd/",
+    "source_name": "National Board of Revenue e-TIN Portal",
+    "last_checked": "2026-08-01",
+    "text": "ভবিষ্যতে টিআইএন অ্যাকাউন্টে লগইনের জন্য ব্যবহারকারী আইডি ও পাসওয়ার্ড নিরাপদে সংরক্ষণ করা।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_063"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_043",
+    "domain": "tin",
+    "topic": "required_documents",
+    "title": "টিআইএন আবেদন শুরু করার ন্যূনতম প্রয়োজনীয়তা কী",
+    "source_url": "https://www.incometax.gov.bd/",
+    "source_name": "National Board of Revenue e-TIN Portal",
+    "last_checked": "2026-08-01",
+    "text": "একটি অনন্য মোবাইল নম্বর এবং কোম্পানির প্রাথমিক তথ্য, যেমন নাম, আরজেএসসি ইনকরপোরেশন তথ্য ও ঠিকানা দরকার।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_071"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_044",
+    "domain": "tin",
+    "topic": "fees",
+    "title": "বাংলাদেশে টিআইএন নিতে কি কোনো সরকারি ফি লাগে",
+    "source_url": "https://www.incometax.gov.bd/",
+    "source_name": "National Board of Revenue e-TIN Portal",
+    "last_checked": "2026-08-01",
+    "text": "বাংলাদেশে টিআইএন নেওয়ার জন্য কোনো সরকারি ফি লাগে না।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_007"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_045",
+    "domain": "tin",
+    "topic": "foreign_company",
+    "title": "বিদেশি কোম্পানি বা শাখা অফিস কি বাংলাদেশে টিআইএন নিতে পারে",
+    "source_url": "https://www.incometax.gov.bd/",
+    "source_name": "National Board of Revenue e-TIN Portal",
+    "last_checked": "2026-08-01",
+    "text": "হ্যাঁ, বাংলাদেশে আইনগতভাবে ব্যবসা পরিচালনার জন্য বিদেশি কোম্পানি, শাখা অফিস ও লিয়াজোঁ অফিসকেও টিআইএন নিতে হয়।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_029"
+    ]
+  },
+  {
+    "doc_id": "tin_cov_046",
+    "domain": "tin",
+    "topic": "required_documents",
+    "title": "ম্যানুয়াল চেকলিস্টে প্রোপ্রাইটরশিপের জন্য যা লাগে কিন্তু কোম্পানির জন্য লাগে না, সেটি কী",
+    "source_url": "https://fmassociatesbd.com/licensing/how-to-obtain-tax-identification-number-tin-certificate-in-bangladesh/",
+    "source_name": "FM Associates — TIN Manual Checklist",
+    "last_checked": "2026-08-01",
+    "text": "মালিকের তিন কপি ছবি প্রোপ্রাইটরশিপের জন্য নির্দিষ্টভাবে উল্লেখ আছে।",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "tin_165"
+    ]
   }
 ]

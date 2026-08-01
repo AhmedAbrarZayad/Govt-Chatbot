@@ -5646,5 +5646,2132 @@
       "NID download",
       "smart card"
     ]
+  },
+  {
+    "doc_id": "nid_cov_001",
+    "original_doc_id": "nid_cov_001",
+    "domain": "nid",
+    "service": "nid_number_structure",
+    "topic": "nid_number_structure",
+    "title": "NID আবেদন করতে কী কী ডকুমেন্ট লাগে",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "প্রিন্টেড আবেদনপত্র, পাসপোর্ট সাইজ ছবি, ১৭ ডিজিটের জন্ম নিবন্ধন, পাসপোর্ট কপি এবং পিতামাতার NID বা জন্ম সনদ প্রয়োজন হতে পারে।",
+    "keywords": [
+      "nid",
+      "আবেদন",
+      "করতে",
+      "ডকুমেন্ট",
+      "লাগে",
+      "প্রিন্টেড",
+      "আবেদনপত্র",
+      "পাসপোর্ট",
+      "সাইজ",
+      "ছবি",
+      "১৭",
+      "ডিজিটের"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_003"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_002",
+    "original_doc_id": "nid_cov_002",
+    "domain": "nid",
+    "service": "eligibility",
+    "topic": "eligibility",
+    "title": "NID কারা আবেদন করতে পারবে",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "০১ অক্টোবর ২০১০ এর আগে জন্মগ্রহণকারী বাংলাদেশী বা বাংলাদেশি বংশোদ্ভূত ব্যক্তি আবেদন করতে পারবেন।",
+    "keywords": [
+      "nid",
+      "কারা",
+      "আবেদন",
+      "করতে",
+      "পারবে",
+      "০১",
+      "অক্টোবর",
+      "২০১০",
+      "আগে",
+      "জন্মগ্রহণকারী",
+      "বাংলাদেশী",
+      "বাংলাদেশি"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_006"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_003",
+    "original_doc_id": "nid_cov_003",
+    "domain": "nid",
+    "service": "new_voter_registration",
+    "topic": "new_voter_registration",
+    "title": "যদি আগে ভোটার হয়ে থাকি তাহলে কি আবার আবেদন করতে হবে",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "না, আগে ভোটার হয়ে থাকলে নতুন নিবন্ধনের প্রয়োজন নেই।",
+    "keywords": [
+      "যদি",
+      "আগে",
+      "ভোটার",
+      "হয়ে",
+      "থাকি",
+      "তাহলে",
+      "আবার",
+      "আবেদন",
+      "করতে",
+      "থাকলে",
+      "নতুন",
+      "নিবন্ধনের"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_007"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_004",
+    "original_doc_id": "nid_cov_004",
+    "domain": "nid",
+    "service": "address_correction",
+    "topic": "address_correction",
+    "title": "NID তথ্য হালনাগাদের জন্য কী কী প্রয়োজন",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "তথ্য হালনাগাদের জন্য প্রয়োজনীয় প্রমাণপত্র যেমন জন্ম নিবন্ধন, পাসপোর্ট, ঠিকানা প্রমাণ এবং সংশ্লিষ্ট দলিলাদি জমা দিতে হয়।",
+    "keywords": [
+      "nid",
+      "তথ্য",
+      "হালনাগাদের",
+      "প্রয়োজন",
+      "প্রয়োজনীয়",
+      "প্রমাণপত্র",
+      "যেমন",
+      "জন্ম",
+      "নিবন্ধন",
+      "পাসপোর্ট",
+      "ঠিকানা",
+      "প্রমাণ"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_014"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_005",
+    "original_doc_id": "nid_cov_005",
+    "domain": "nid",
+    "service": "nid_verification_status",
+    "topic": "nid_verification_status",
+    "title": "NID রেজিস্ট্রেশন প্রক্রিয়া কী",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "রেজিস্ট্রেশন প্রক্রিয়ায় অনলাইন আবেদন, তথ্য যাচাই এবং বায়োমেট্রিক ডেটা সংগ্রহ অন্তর্ভুক্ত থাকে।",
+    "keywords": [
+      "nid",
+      "রেজিস্ট্রেশন",
+      "প্রক্রিয়া",
+      "প্রক্রিয়ায়",
+      "অনলাইন",
+      "আবেদন",
+      "তথ্য",
+      "যাচাই",
+      "বায়োমেট্রিক",
+      "ডেটা",
+      "সংগ্রহ",
+      "অন্তর্ভুক্ত"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_016"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_006",
+    "original_doc_id": "nid_cov_006",
+    "domain": "nid",
+    "service": "fee_payment",
+    "topic": "fee_payment",
+    "title": "NID অফিসের ইমেইল কী",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "NID অফিসের অফিসিয়াল ইমেইল হলো info@nidw.gov.bd।",
+    "keywords": [
+      "nid",
+      "অফিসের",
+      "ইমেইল",
+      "অফিসিয়াল",
+      "হলো",
+      "info@nidw.gov.bd"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_018"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_007",
+    "original_doc_id": "nid_cov_007",
+    "domain": "nid",
+    "service": "nid_services",
+    "topic": "nid_services",
+    "title": "NID সেবার সময় কখন",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "NID সেবা প্রদান করা হয় রবিবার থেকে বৃহস্পতিবার, সকাল ৯:০০টা থেকে বিকাল ৫:০০টা পর্যন্ত।",
+    "keywords": [
+      "nid",
+      "সেবার",
+      "সময়",
+      "কখন",
+      "সেবা",
+      "প্রদান",
+      "রবিবার",
+      "বৃহস্পতিবার",
+      "সকাল",
+      "০০টা",
+      "বিকাল",
+      "পর্যন্ত"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_019"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_008",
+    "original_doc_id": "nid_cov_008",
+    "domain": "nid",
+    "service": "nid_correction",
+    "topic": "nid_correction",
+    "title": "NID কার্ডের তথ্য কিভাবে সংশোধন করা যায়",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "অনলাইন, এনআইডি রেজিস্ট্রেশন উইং অথবা উপজেলা/থানা/জেলা নির্বাচন অফিসে ভুল তথ্য সংশোধনের জন্য আবেদন করতে হয় এবং প্রয়োজনীয় দলিল জমা দিতে হয়।",
+    "keywords": [
+      "nid",
+      "কার্ডের",
+      "তথ্য",
+      "কিভাবে",
+      "সংশোধন",
+      "অনলাইন",
+      "এনআইডি",
+      "রেজিস্ট্রেশন",
+      "উইং",
+      "অথবা",
+      "উপজেলা/থানা/জেলা",
+      "নির্বাচন"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_020"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_009",
+    "original_doc_id": "nid_cov_009",
+    "domain": "nid",
+    "service": "occupation_correction",
+    "topic": "occupation_correction",
+    "title": "NID তে পেশা পরিবর্তন করা যায় কি",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "হ্যাঁ, প্রমাণপত্রসহ আবেদন করতে হয়। তবে পেশা সাধারণত কার্ডে মুদ্রিত হয় না।",
+    "keywords": [
+      "nid",
+      "তে",
+      "পেশা",
+      "পরিবর্তন",
+      "প্রমাণপত্রসহ",
+      "আবেদন",
+      "করতে",
+      "সাধারণত",
+      "কার্ডে",
+      "মুদ্রিত"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_027"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_010",
+    "original_doc_id": "nid_cov_010",
+    "domain": "nid",
+    "service": "photo_correction",
+    "topic": "photo_correction",
+    "title": "NID ছবির পরিবর্তন কীভাবে করা যায়",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "নিজে সরাসরি উপস্থিত হয়ে জাতীয় পরিচয় নিবন্ধন অনুবিভাগে আবেদন করতে হয়।",
+    "keywords": [
+      "nid",
+      "ছবির",
+      "পরিবর্তন",
+      "কীভাবে",
+      "নিজে",
+      "সরাসরি",
+      "উপস্থিত",
+      "হয়ে",
+      "জাতীয়",
+      "পরিচয়",
+      "নিবন্ধন",
+      "অনুবিভাগে"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_028"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_011",
+    "original_doc_id": "nid_cov_011",
+    "domain": "nid",
+    "service": "name_correction",
+    "topic": "name_correction",
+    "title": "ডাক নাম ব্যবহার করলে কীভাবে সংশোধন করবো",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "এসএসসি সনদ, এফিডেভিট, পত্রিকায় বিজ্ঞপ্তি, ওয়ারিশ সনদ এবং স্থানীয় কর্তৃপক্ষের প্রত্যয়নপত্রসহ আবেদন করতে হয়।",
+    "keywords": [
+      "ডাক",
+      "নাম",
+      "ব্যবহার",
+      "করলে",
+      "কীভাবে",
+      "সংশোধন",
+      "করবো",
+      "এসএসসি",
+      "সনদ",
+      "এফিডেভিট",
+      "পত্রিকায়",
+      "বিজ্ঞপ্তি"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_030"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_012",
+    "original_doc_id": "nid_cov_012",
+    "domain": "nid",
+    "service": "nid_correction",
+    "topic": "nid_correction",
+    "title": "NID তে অন্য ব্যক্তির তথ্য চলে এলে কী করবো",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "প্রমাণপত্রসহ আবেদন করে বায়োমেট্রিক যাচাইয়ের মাধ্যমে সংশোধন করা হয়।",
+    "keywords": [
+      "nid",
+      "তে",
+      "অন্য",
+      "ব্যক্তির",
+      "তথ্য",
+      "চলে",
+      "এলে",
+      "করবো",
+      "প্রমাণপত্রসহ",
+      "আবেদন",
+      "বায়োমেট্রিক",
+      "যাচাইয়ের"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_036"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_013",
+    "original_doc_id": "nid_cov_013",
+    "domain": "nid",
+    "service": "blood_group_correction",
+    "topic": "blood_group_correction",
+    "title": "রক্তের গ্রুপ যোগ বা সংশোধন করতে কী লাগে",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "ডায়াগনস্টিক রিপোর্ট জমা দিতে হয়।",
+    "keywords": [
+      "রক্তের",
+      "গ্রুপ",
+      "যোগ",
+      "সংশোধন",
+      "করতে",
+      "লাগে",
+      "ডায়াগনস্টিক",
+      "রিপোর্ট",
+      "জমা",
+      "দিতে"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_037"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_014",
+    "original_doc_id": "nid_cov_014",
+    "domain": "nid",
+    "service": "signature_correction",
+    "topic": "signature_correction",
+    "title": "স্বাক্ষর পরিবর্তন করা যায় কি",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "হ্যাঁ, নতুন স্বাক্ষরের নমুনা ও আবেদন জমা দিতে হয়। তবে একবারই পরিবর্তন করা যায়।",
+    "keywords": [
+      "স্বাক্ষর",
+      "পরিবর্তন",
+      "নতুন",
+      "স্বাক্ষরের",
+      "নমুনা",
+      "আবেদন",
+      "জমা",
+      "দিতে",
+      "একবারই"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_039"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_015",
+    "original_doc_id": "nid_cov_015",
+    "domain": "nid",
+    "service": "date_of_birth_correction",
+    "topic": "date_of_birth_correction",
+    "title": "জন্ম তারিখ সংশোধনের প্রমাণ না থাকলে কী হবে",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "তদন্ত সাপেক্ষে উপজেলা/জেলা নির্বাচন অফিস বিষয়টি যাচাই করে সিদ্ধান্ত নেয়।",
+    "keywords": [
+      "জন্ম",
+      "তারিখ",
+      "সংশোধনের",
+      "প্রমাণ",
+      "থাকলে",
+      "তদন্ত",
+      "সাপেক্ষে",
+      "উপজেলা/জেলা",
+      "নির্বাচন",
+      "অফিস",
+      "বিষয়টি",
+      "যাচাই"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_040"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_016",
+    "original_doc_id": "nid_cov_016",
+    "domain": "nid",
+    "service": "nid_correction",
+    "topic": "nid_correction",
+    "title": "NID তে না থাকা কিন্তু পরিবর্তিত তথ্য কীভাবে সংশোধন করা যাবে",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "যে তথ্য NID তে প্রদর্শিত নয়, তা অনলাইনের মাধ্যমে সংশোধনের আবেদন করে আপডেট করা যায়।",
+    "keywords": [
+      "nid",
+      "তে",
+      "থাকা",
+      "কিন্তু",
+      "পরিবর্তিত",
+      "তথ্য",
+      "কীভাবে",
+      "সংশোধন",
+      "যাবে",
+      "প্রদর্শিত",
+      "নয়",
+      "তা"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_046"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_017",
+    "original_doc_id": "nid_cov_017",
+    "domain": "nid",
+    "service": "duplicate_reissue",
+    "topic": "duplicate_reissue",
+    "title": "২০০৭-২০১০ সালে ভোটার হয়েছি কিন্তু NID নেই, কী করবো",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "উপজেলা বা থানা নির্বাচন অফিস থেকে কার্ড সংগ্রহ করতে পারবেন। না পেলে অনলাইনে রিইস্যুর জন্য আবেদন করতে হবে।",
+    "keywords": [
+      "২০০৭-২০১০",
+      "সালে",
+      "ভোটার",
+      "হয়েছি",
+      "কিন্তু",
+      "nid",
+      "নেই",
+      "করবো",
+      "উপজেলা",
+      "থানা",
+      "নির্বাচন",
+      "অফিস"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_049"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_018",
+    "original_doc_id": "nid_cov_018",
+    "domain": "nid",
+    "service": "eligibility",
+    "topic": "eligibility",
+    "title": "ভোটার রেজিস্ট্রেশনে কোন বয়স বা নাম প্রযোজ্য হবে",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "এসএসসি বা সমমানের সনদের তথ্য প্রযোজ্য হবে। না থাকলে জন্ম সনদ, পাসপোর্ট বা ড্রাইভিং লাইসেন্স ব্যবহার করা যায়।",
+    "keywords": [
+      "ভোটার",
+      "রেজিস্ট্রেশনে",
+      "কোন",
+      "বয়স",
+      "নাম",
+      "প্রযোজ্য",
+      "এসএসসি",
+      "সমমানের",
+      "সনদের",
+      "তথ্য",
+      "থাকলে",
+      "জন্ম"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_055"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_019",
+    "original_doc_id": "nid_cov_019",
+    "domain": "nid",
+    "service": "contact_support",
+    "topic": "contact_support",
+    "title": "নতুন ভোটার হতে কী কী লাগে",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "জন্ম নিবন্ধন, শিক্ষাগত সনদ, ঠিকানা প্রমাণ, নাগরিক সনদ, পিতামাতার NID এবং অন্যান্য প্রযোজ্য কাগজপত্র প্রয়োজন হয়।",
+    "keywords": [
+      "নতুন",
+      "ভোটার",
+      "লাগে",
+      "জন্ম",
+      "নিবন্ধন",
+      "শিক্ষাগত",
+      "সনদ",
+      "ঠিকানা",
+      "প্রমাণ",
+      "নাগরিক",
+      "পিতামাতার",
+      "nid"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_058"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_020",
+    "original_doc_id": "nid_cov_020",
+    "domain": "nid",
+    "service": "fee_payment",
+    "topic": "fee_payment",
+    "title": "NID ফর্মের জন্য কি কোনো ফি লাগে",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "না, কোনো ফি লাগে না।",
+    "keywords": [
+      "nid",
+      "ফর্মের",
+      "কোনো",
+      "ফি",
+      "লাগে"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_064"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_021",
+    "original_doc_id": "nid_cov_021",
+    "domain": "nid",
+    "service": "duplicate_reissue",
+    "topic": "duplicate_reissue",
+    "title": "NID রিইস্যু করার জন্য জিডি নম্বর কী",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "জিডি নম্বর হলো থানায় সাধারণ ডায়েরি (GD) করার পর পাওয়া রেফারেন্স নম্বর যা আবেদন করার সময় প্রয়োজন হতে পারে।",
+    "keywords": [
+      "nid",
+      "রিইস্যু",
+      "করার",
+      "জিডি",
+      "নম্বর",
+      "হলো",
+      "থানায়",
+      "সাধারণ",
+      "ডায়েরি",
+      "gd",
+      "পর",
+      "পাওয়া"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_066"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_022",
+    "original_doc_id": "nid_cov_022",
+    "domain": "nid",
+    "service": "duplicate_reissue",
+    "topic": "duplicate_reissue",
+    "title": "NID রিইস্যুর জন্য পুলিশ অফিসারের নাম কেন লাগে",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "জিডি যাচাইয়ের জন্য দায়িত্বপ্রাপ্ত পুলিশ অফিসারের নাম আবেদন ফর্মে উল্লেখ করা হয়।",
+    "keywords": [
+      "nid",
+      "রিইস্যুর",
+      "পুলিশ",
+      "অফিসারের",
+      "নাম",
+      "কেন",
+      "লাগে",
+      "জিডি",
+      "যাচাইয়ের",
+      "দায়িত্বপ্রাপ্ত",
+      "আবেদন",
+      "ফর্মে"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_068"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_023",
+    "original_doc_id": "nid_cov_023",
+    "domain": "nid",
+    "service": "overseas_voter_registration",
+    "topic": "overseas_voter_registration",
+    "title": "প্রবাসী বাংলাদেশিদের ভোটার নিবন্ধনের জন্য কী কী প্রয়োজনীয় দলিল লাগে",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "প্রবাসী বাংলাদেশিদের জন্য অনলাইনে পূরণকৃত আবেদনপত্র, অনলাইন ভেরিফাইড জন্ম নিবন্ধন সনদ, পাসপোর্ট বা বিদেশি পাসপোর্ট, পিতামাতার পরিচয়পত্র এবং পাসপোর্ট সাইজ ছবি প্রয়োজন।",
+    "keywords": [
+      "প্রবাসী",
+      "বাংলাদেশিদের",
+      "ভোটার",
+      "নিবন্ধনের",
+      "প্রয়োজনীয়",
+      "দলিল",
+      "লাগে",
+      "অনলাইনে",
+      "পূরণকৃত",
+      "আবেদনপত্র",
+      "অনলাইন",
+      "ভেরিফাইড"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_071"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_024",
+    "original_doc_id": "nid_cov_024",
+    "domain": "nid",
+    "service": "overseas_voter_registration",
+    "topic": "overseas_voter_registration",
+    "title": "প্রবাসী ভোটার নিবন্ধনের জন্য কোন আবেদন ফর্ম ব্যবহার করতে হয়",
+    "source_name": "Bangladesh Election Commission — Voter Registration Forms",
+    "source_url": "https://ecs.gov.bd/en/page/voter-registration-related-forms",
+    "text": "প্রবাসী ভোটার নিবন্ধনের জন্য ফরম-২ক ব্যবহার করতে হয়।",
+    "keywords": [
+      "প্রবাসী",
+      "ভোটার",
+      "নিবন্ধনের",
+      "কোন",
+      "আবেদন",
+      "ফর্ম",
+      "ব্যবহার",
+      "করতে",
+      "ফরম-২ক"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_072"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_025",
+    "original_doc_id": "nid_cov_025",
+    "domain": "nid",
+    "service": "overseas_voter_registration",
+    "topic": "overseas_voter_registration",
+    "title": "প্রবাসী ভোটার নিবন্ধনে পাসপোর্ট না থাকলে কী ব্যবহার করা যায়",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "মেয়াদোত্তীর্ণ বাংলাদেশি পাসপোর্ট, বিদেশি পাসপোর্ট অথবা তিনজন বাংলাদেশি NIDধারী ব্যক্তির প্রত্যয়নপত্র ব্যবহার করা যায়।",
+    "keywords": [
+      "প্রবাসী",
+      "ভোটার",
+      "নিবন্ধনে",
+      "পাসপোর্ট",
+      "থাকলে",
+      "ব্যবহার",
+      "মেয়াদোত্তীর্ণ",
+      "বাংলাদেশি",
+      "বিদেশি",
+      "অথবা",
+      "তিনজন",
+      "nidধারী"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_074"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_026",
+    "original_doc_id": "nid_cov_026",
+    "domain": "nid",
+    "service": "required_documents",
+    "topic": "required_documents",
+    "title": "বিশেষ এলাকার ভোটারদের জন্য অতিরিক্ত কী লাগে",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "বিশেষ এলাকার জন্য বিশেষ তথ্য ফরম এবং অতিরিক্ত তথ্য সম্বলিত ডকুমেন্ট প্রয়োজন হতে পারে।",
+    "keywords": [
+      "বিশেষ",
+      "এলাকার",
+      "ভোটারদের",
+      "অতিরিক্ত",
+      "লাগে",
+      "তথ্য",
+      "ফরম",
+      "সম্বলিত",
+      "ডকুমেন্ট",
+      "প্রয়োজন"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_078"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_027",
+    "original_doc_id": "nid_cov_027",
+    "domain": "nid",
+    "service": "overseas_voter_registration",
+    "topic": "overseas_voter_registration",
+    "title": "প্রবাসী ভোটার নিবন্ধন কোথায় করতে হয়",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "নির্ধারিত মিশন অফিসে উপস্থিত হয়ে আবেদন করতে হয়।",
+    "keywords": [
+      "প্রবাসী",
+      "ভোটার",
+      "নিবন্ধন",
+      "কোথায়",
+      "করতে",
+      "নির্ধারিত",
+      "মিশন",
+      "অফিসে",
+      "উপস্থিত",
+      "হয়ে",
+      "আবেদন"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_081"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_028",
+    "original_doc_id": "nid_cov_028",
+    "domain": "nid",
+    "service": "overseas_voter_registration",
+    "topic": "overseas_voter_registration",
+    "title": "প্রবাসী বাংলাদেশিদের ভোটার নিবন্ধনের জন্য কোন আবেদন ফর্ম লাগে",
+    "source_name": "Bangladesh Election Commission — Voter Registration Forms",
+    "source_url": "https://ecs.gov.bd/en/page/voter-registration-related-forms",
+    "text": "প্রবাসী ভোটার নিবন্ধনের জন্য ফরম-২ক (Form-2Ka) ব্যবহার করতে হয়।",
+    "keywords": [
+      "প্রবাসী",
+      "বাংলাদেশিদের",
+      "ভোটার",
+      "নিবন্ধনের",
+      "কোন",
+      "আবেদন",
+      "ফর্ম",
+      "লাগে",
+      "ফরম-২ক",
+      "form-2ka",
+      "ব্যবহার",
+      "করতে"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_086"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_029",
+    "original_doc_id": "nid_cov_029",
+    "domain": "nid",
+    "service": "overseas_voter_registration",
+    "topic": "overseas_voter_registration",
+    "title": "প্রবাসী ভোটার নিবন্ধন কোথায় করতে হয়",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "নির্ধারিত বাংলাদেশ মিশন অফিসে উপস্থিত হয়ে আবেদন করতে হয়।",
+    "keywords": [
+      "প্রবাসী",
+      "ভোটার",
+      "নিবন্ধন",
+      "কোথায়",
+      "করতে",
+      "নির্ধারিত",
+      "বাংলাদেশ",
+      "মিশন",
+      "অফিসে",
+      "উপস্থিত",
+      "হয়ে",
+      "আবেদন"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_095"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_030",
+    "original_doc_id": "nid_cov_030",
+    "domain": "nid",
+    "service": "overseas_voter_registration",
+    "topic": "overseas_voter_registration",
+    "title": "প্রবাসী ভোটার নিবন্ধনে প্রতিনিধি কি ডকুমেন্ট জমা দিতে পারে",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "হ্যাঁ, কিছু দলিল বাংলাদেশে অবস্থানরত প্রতিনিধি সংশ্লিষ্ট নির্বাচন অফিসে জমা দিতে পারে।",
+    "keywords": [
+      "প্রবাসী",
+      "ভোটার",
+      "নিবন্ধনে",
+      "প্রতিনিধি",
+      "ডকুমেন্ট",
+      "জমা",
+      "দিতে",
+      "কিছু",
+      "দলিল",
+      "বাংলাদেশে",
+      "অবস্থানরত",
+      "সংশ্লিষ্ট"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_098"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_031",
+    "original_doc_id": "nid_cov_031",
+    "domain": "nid",
+    "service": "contact_support",
+    "topic": "contact_support",
+    "title": "NID নতুন ভোটার হওয়ার জন্য কী কী লাগে",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "এসএসসি সনদ, জন্ম নিবন্ধন, পাসপোর্ট বা ড্রাইভিং লাইসেন্স, ঠিকানা প্রমাণ, নাগরিকত্ব সনদ এবং পিতামাতার NID কপি প্রয়োজন হতে পারে।",
+    "keywords": [
+      "nid",
+      "নতুন",
+      "ভোটার",
+      "হওয়ার",
+      "লাগে",
+      "এসএসসি",
+      "সনদ",
+      "জন্ম",
+      "নিবন্ধন",
+      "পাসপোর্ট",
+      "ড্রাইভিং",
+      "লাইসেন্স"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_108"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_032",
+    "original_doc_id": "nid_cov_032",
+    "domain": "nid",
+    "service": "overseas_voter_registration",
+    "topic": "overseas_voter_registration",
+    "title": "প্রবাসে (টোকিও দূতাবাসে) NID আবেদন কীভাবে করতে হয়",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "প্রথমে অনলাইনে https://services.nidw.gov.bd/nid-pub ওয়েবসাইটে আবেদন করতে হয়, তারপর অ্যাপয়েন্টমেন্ট নিয়ে দূতাবাসে উপস্থিত হয়ে বায়োমেট্রিক প্রদান করতে হয়।",
+    "keywords": [
+      "প্রবাসে",
+      "টোকিও",
+      "দূতাবাসে",
+      "nid",
+      "আবেদন",
+      "কীভাবে",
+      "করতে",
+      "প্রথমে",
+      "অনলাইনে",
+      "https",
+      "//services.nidw.gov.bd/nid-pub",
+      "ওয়েবসাইটে"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_116"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_033",
+    "original_doc_id": "nid_cov_033",
+    "domain": "nid",
+    "service": "overseas_voter_registration",
+    "topic": "overseas_voter_registration",
+    "title": "লন্ডনে NID আবেদনে ফি লাগে কি",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "না, NID আবেদন প্রক্রিয়ার জন্য কোনো ফি লাগে না।",
+    "keywords": [
+      "লন্ডনে",
+      "nid",
+      "আবেদনে",
+      "ফি",
+      "লাগে",
+      "আবেদন",
+      "প্রক্রিয়ার",
+      "কোনো"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_135"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_034",
+    "original_doc_id": "nid_cov_034",
+    "domain": "nid",
+    "service": "overseas_voter_registration",
+    "topic": "overseas_voter_registration",
+    "title": "লন্ডনে NID আবেদনের শর্ত কী",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "আবেদনকারীকে অবশ্যই নতুন আবেদনকারী হতে হবে, এবং পূর্বে NID থাকলে আবেদন গ্রহণযোগ্য নয়।",
+    "keywords": [
+      "লন্ডনে",
+      "nid",
+      "আবেদনের",
+      "শর্ত",
+      "আবেদনকারীকে",
+      "অবশ্যই",
+      "নতুন",
+      "আবেদনকারী",
+      "পূর্বে",
+      "থাকলে",
+      "আবেদন",
+      "গ্রহণযোগ্য"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_141"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_035",
+    "original_doc_id": "nid_cov_035",
+    "domain": "nid",
+    "service": "overseas_voter_registration",
+    "topic": "overseas_voter_registration",
+    "title": "লন্ডনে NID আবেদন কোথায় করতে হয়",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "https://services.nidw.gov.bd/nid-pub ওয়েবসাইটে অনলাইন আবেদন করতে হয়।",
+    "keywords": [
+      "লন্ডনে",
+      "nid",
+      "আবেদন",
+      "কোথায়",
+      "করতে",
+      "https",
+      "//services.nidw.gov.bd/nid-pub",
+      "ওয়েবসাইটে",
+      "অনলাইন"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_143",
+      "nid_148"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_036",
+    "original_doc_id": "nid_cov_036",
+    "domain": "nid",
+    "service": "overseas_voter_registration",
+    "topic": "overseas_voter_registration",
+    "title": "দুবাই কনস্যুলেটে NID এর জন্য কী কী ডকুমেন্ট লাগে",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "অনলাইন আবেদন ফর্ম-২ক, ১৭ ডিজিট জন্ম নিবন্ধন, পাসপোর্ট, ছবি এবং প্রয়োজনীয় অন্যান্য পরিচয়পত্র লাগে।",
+    "keywords": [
+      "দুবাই",
+      "কনস্যুলেটে",
+      "nid",
+      "ডকুমেন্ট",
+      "লাগে",
+      "অনলাইন",
+      "আবেদন",
+      "ফর্ম-২ক",
+      "১৭",
+      "ডিজিট",
+      "জন্ম",
+      "নিবন্ধন"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_149"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_037",
+    "original_doc_id": "nid_cov_037",
+    "domain": "nid",
+    "service": "overseas_voter_registration",
+    "topic": "overseas_voter_registration",
+    "title": "দুবাই কনস্যুলেটে NID এর জন্য অ্যাপয়েন্টমেন্ট লাগে কি",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "হ্যাঁ, নির্ধারিত তারিখে বায়োমেট্রিকের জন্য অ্যাপয়েন্টমেন্ট প্রয়োজন।",
+    "keywords": [
+      "দুবাই",
+      "কনস্যুলেটে",
+      "nid",
+      "অ্যাপয়েন্টমেন্ট",
+      "লাগে",
+      "নির্ধারিত",
+      "তারিখে",
+      "বায়োমেট্রিকের",
+      "প্রয়োজন"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_150"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_038",
+    "original_doc_id": "nid_cov_038",
+    "domain": "nid",
+    "service": "overseas_voter_registration",
+    "topic": "overseas_voter_registration",
+    "title": "দুবাই কনস্যুলেটে NID প্রসেসিং টাইম কত",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "প্রসেসিং টাইম নির্ভর করে যাচাই প্রক্রিয়ার ওপর, তাই নির্দিষ্ট সময় বলা যায় না।",
+    "keywords": [
+      "দুবাই",
+      "কনস্যুলেটে",
+      "nid",
+      "প্রসেসিং",
+      "টাইম",
+      "কত",
+      "নির্ভর",
+      "যাচাই",
+      "প্রক্রিয়ার",
+      "ওপর",
+      "তাই",
+      "নির্দিষ্ট"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_152"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_039",
+    "original_doc_id": "nid_cov_039",
+    "domain": "nid",
+    "service": "overseas_voter_registration",
+    "topic": "overseas_voter_registration",
+    "title": "দুবাই কনস্যুলেটে NID এর জন্য কীভাবে যাচাই হয়",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "বাংলাদেশের সংশ্লিষ্ট নির্বাচন অফিস আবেদন যাচাই করে তথ্য নিশ্চিত করে।",
+    "keywords": [
+      "দুবাই",
+      "কনস্যুলেটে",
+      "nid",
+      "কীভাবে",
+      "যাচাই",
+      "বাংলাদেশের",
+      "সংশ্লিষ্ট",
+      "নির্বাচন",
+      "অফিস",
+      "আবেদন",
+      "তথ্য",
+      "নিশ্চিত"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_154"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_040",
+    "original_doc_id": "nid_cov_040",
+    "domain": "nid",
+    "service": "nid_online_account_download",
+    "topic": "nid_online_account_download",
+    "title": "NID একাউন্ট তৈরির জন্য কী তথ্য দিতে হয়",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "NID বা Form Number, জন্ম তারিখ এবং ক্যাপচা কোড সঠিকভাবে দিতে হয়।",
+    "keywords": [
+      "nid",
+      "একাউন্ট",
+      "তৈরির",
+      "তথ্য",
+      "দিতে",
+      "form",
+      "number",
+      "জন্ম",
+      "তারিখ",
+      "ক্যাপচা",
+      "কোড",
+      "সঠিকভাবে"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_162"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_041",
+    "original_doc_id": "nid_cov_041",
+    "domain": "nid",
+    "service": "nid_online_account_download",
+    "topic": "nid_online_account_download",
+    "title": "তথ্য ভুল দিলে কী হবে",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "তিনবারের বেশি ভুল তথ্য দিলে একাউন্ট সাময়িকভাবে লক হয়ে যেতে পারে।",
+    "keywords": [
+      "তথ্য",
+      "ভুল",
+      "দিলে",
+      "তিনবারের",
+      "বেশি",
+      "একাউন্ট",
+      "সাময়িকভাবে",
+      "লক",
+      "হয়ে",
+      "যেতে"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_163"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_042",
+    "original_doc_id": "nid_cov_042",
+    "domain": "nid",
+    "service": "new_voter_registration",
+    "topic": "new_voter_registration",
+    "title": "প্রতিবন্ধী ভোটারদের জন্য কী ব্যবস্থা আছে",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "প্রতিবন্ধী ও অসুস্থ ভোটারদের বাড়িতে গিয়ে নিবন্ধন সম্পন্ন করা হয়।",
+    "keywords": [
+      "প্রতিবন্ধী",
+      "ভোটারদের",
+      "ব্যবস্থা",
+      "আছে",
+      "অসুস্থ",
+      "বাড়িতে",
+      "গিয়ে",
+      "নিবন্ধন",
+      "সম্পন্ন"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_173"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_043",
+    "original_doc_id": "nid_cov_043",
+    "domain": "nid",
+    "service": "overseas_voter_registration",
+    "topic": "overseas_voter_registration",
+    "title": "প্রবাসী ভোটার নিবন্ধনে জন্ম সনদ কেন লাগে",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "আবেদনকারীর পরিচয় ও নাগরিকত্ব যাচাই করার জন্য অনলাইন ভেরিফাইড জন্ম নিবন্ধন সনদ প্রয়োজন।",
+    "keywords": [
+      "প্রবাসী",
+      "ভোটার",
+      "নিবন্ধনে",
+      "জন্ম",
+      "সনদ",
+      "কেন",
+      "লাগে",
+      "আবেদনকারীর",
+      "পরিচয়",
+      "নাগরিকত্ব",
+      "যাচাই",
+      "করার"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_176"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_044",
+    "original_doc_id": "nid_cov_044",
+    "domain": "nid",
+    "service": "overseas_voter_registration",
+    "topic": "overseas_voter_registration",
+    "title": "প্রবাসী ভোটার নিবন্ধনের উদ্দেশ্য কী",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "প্রবাসী বাংলাদেশিদের সঠিক পরিচয় যাচাই করে ভোটার তালিকায় অন্তর্ভুক্ত করা এবং NID প্রদান করা।",
+    "keywords": [
+      "প্রবাসী",
+      "ভোটার",
+      "নিবন্ধনের",
+      "উদ্দেশ্য",
+      "বাংলাদেশিদের",
+      "সঠিক",
+      "পরিচয়",
+      "যাচাই",
+      "তালিকায়",
+      "অন্তর্ভুক্ত",
+      "nid",
+      "প্রদান"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_184"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_045",
+    "original_doc_id": "nid_cov_045",
+    "domain": "nid",
+    "service": "nid_attestation",
+    "topic": "nid_attestation",
+    "title": "NID সত্যায়নে কোন ফরম্যাটে ফাইল আপলোড করতে হয়",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "JPEG, JPG অথবা PNG ফরম্যাটে ফাইল আপলোড করতে হয়।",
+    "keywords": [
+      "nid",
+      "সত্যায়নে",
+      "কোন",
+      "ফরম্যাটে",
+      "ফাইল",
+      "আপলোড",
+      "করতে",
+      "jpeg",
+      "jpg",
+      "অথবা",
+      "png"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_189"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_046",
+    "original_doc_id": "nid_cov_046",
+    "domain": "nid",
+    "service": "nid_verification_status",
+    "topic": "nid_verification_status",
+    "title": "আবেদন করার পর কী পাওয়া যায়",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "আবেদন করার পর একটি ট্র্যাকিং নম্বর দেওয়া হয়, যা দিয়ে আবেদন ট্র্যাক করা যায়।",
+    "keywords": [
+      "আবেদন",
+      "করার",
+      "পর",
+      "পাওয়া",
+      "ট্র্যাকিং",
+      "নম্বর",
+      "দেওয়া",
+      "যা",
+      "দিয়ে",
+      "ট্র্যাক"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_194"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_047",
+    "original_doc_id": "nid_cov_047",
+    "domain": "nid",
+    "service": "nid_attestation",
+    "topic": "nid_attestation",
+    "title": "NID সত্যায়ন আবেদন কোথায় ট্র্যাক করা যায়",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "সেবা ব্যবস্থাপনা অপশন থেকে ট্র্যাকিং নম্বর ব্যবহার করে আবেদন ট্র্যাক করা যায়।",
+    "keywords": [
+      "nid",
+      "সত্যায়ন",
+      "আবেদন",
+      "কোথায়",
+      "ট্র্যাক",
+      "সেবা",
+      "ব্যবস্থাপনা",
+      "অপশন",
+      "ট্র্যাকিং",
+      "নম্বর",
+      "ব্যবহার"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_195"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_048",
+    "original_doc_id": "nid_cov_048",
+    "domain": "nid",
+    "service": "voter_area_migration",
+    "topic": "voter_area_migration",
+    "title": "ভোটার এলাকা পরিবর্তন করা যায় কি",
+    "source_name": "Bangladesh Election Commission",
+    "source_url": "https://ecs.gov.bd/",
+    "text": "হ্যাঁ, প্রয়োজনীয় আবেদন ও যাচাই প্রক্রিয়ার মাধ্যমে ভোটার এলাকা পরিবর্তন করা যেতে পারে।",
+    "keywords": [
+      "ভোটার",
+      "এলাকা",
+      "পরিবর্তন",
+      "প্রয়োজনীয়",
+      "আবেদন",
+      "যাচাই",
+      "প্রক্রিয়ার",
+      "যেতে"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_205"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_049",
+    "original_doc_id": "nid_cov_049",
+    "domain": "nid",
+    "service": "overseas_voter_registration",
+    "topic": "overseas_voter_registration",
+    "title": "নির্বাচন কমিশনের অফিসিয়াল ওয়েবসাইট কী",
+    "source_name": "Bangladesh Election Commission",
+    "source_url": "https://ecs.gov.bd/",
+    "text": "বাংলাদেশ নির্বাচন কমিশনের অফিসিয়াল ওয়েবসাইট হলো https://ecs.gov.bd",
+    "keywords": [
+      "নির্বাচন",
+      "কমিশনের",
+      "অফিসিয়াল",
+      "ওয়েবসাইট",
+      "বাংলাদেশ",
+      "হলো",
+      "https",
+      "//ecs.gov.bd"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_206"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_050",
+    "original_doc_id": "nid_cov_050",
+    "domain": "nid",
+    "service": "smart_card",
+    "topic": "smart_card",
+    "title": "স্মার্ট এনআইডি কার্ড বিতরণ শুরু হলে নাগরিকদের কীভাবে জানানো হয়",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "স্মার্ট এনআইডি কার্ড বিতরণ শুরু হলে সংশ্লিষ্ট নির্বাচন অফিস এসএমএস, স্থানীয় ঘোষণা বা মাইকিংয়ের মাধ্যমে নাগরিকদের অবহিত করে।",
+    "keywords": [
+      "স্মার্ট",
+      "এনআইডি",
+      "কার্ড",
+      "বিতরণ",
+      "শুরু",
+      "হলে",
+      "নাগরিকদের",
+      "কীভাবে",
+      "জানানো",
+      "সংশ্লিষ্ট",
+      "নির্বাচন",
+      "অফিস"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_208"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_051",
+    "original_doc_id": "nid_cov_051",
+    "domain": "nid",
+    "service": "smart_card",
+    "topic": "smart_card",
+    "title": "পুরাতন এনআইডি কার্ড না থাকলে স্মার্ট এনআইডি কার্ড গ্রহণের জন্য কী নেওয়া যেতে পারে",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "পুরাতন এনআইডি কার্ডের মূল কপি না থাকলে তার ফটোকপি নিয়ে স্মার্ট এনআইডি কার্ড গ্রহণ করা যায়।",
+    "keywords": [
+      "পুরাতন",
+      "এনআইডি",
+      "কার্ড",
+      "থাকলে",
+      "স্মার্ট",
+      "গ্রহণের",
+      "নেওয়া",
+      "যেতে",
+      "কার্ডের",
+      "মূল",
+      "কপি",
+      "তার"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_211"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_052",
+    "original_doc_id": "nid_cov_052",
+    "domain": "nid",
+    "service": "smart_card",
+    "topic": "smart_card",
+    "title": "নিবন্ধন স্লিপ দিয়ে কি স্মার্ট এনআইডি কার্ড সংগ্রহ করা যায়",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "হ্যাঁ। নতুন ভোটারের নিবন্ধন স্লিপ থাকলে অনলাইনে স্মার্ট কার্ডের স্ট্যাটাস যাচাই করে সেই স্লিপের মাধ্যমে স্মার্ট এনআইডি কার্ড সংগ্রহ করা যায়।",
+    "keywords": [
+      "নিবন্ধন",
+      "স্লিপ",
+      "দিয়ে",
+      "স্মার্ট",
+      "এনআইডি",
+      "কার্ড",
+      "সংগ্রহ",
+      "নতুন",
+      "ভোটারের",
+      "থাকলে",
+      "অনলাইনে",
+      "কার্ডের"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_212"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_053",
+    "original_doc_id": "nid_cov_053",
+    "domain": "nid",
+    "service": "nid_online_account_download",
+    "topic": "nid_online_account_download",
+    "title": "নতুন ভোটার আইডি অনলাইনে যাচাই করার সময় ভোটার স্লিপের ফর্ম নম্বর কীভাবে লিখতে হয়",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "Claim Account-এর মাধ্যমে নতুন ভোটার আইডি যাচাই করার সময় ভোটার স্লিপের ফর্ম নম্বরের আগে 'NIDFN' যোগ করে লিখতে হয়।",
+    "keywords": [
+      "নতুন",
+      "ভোটার",
+      "আইডি",
+      "অনলাইনে",
+      "যাচাই",
+      "করার",
+      "সময়",
+      "স্লিপের",
+      "ফর্ম",
+      "নম্বর",
+      "কীভাবে",
+      "লিখতে"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_214"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_054",
+    "original_doc_id": "nid_cov_054",
+    "domain": "nid",
+    "service": "nid_online_account_download",
+    "topic": "nid_online_account_download",
+    "title": "এনআইডি অনলাইন অ্যাকাউন্টে প্রবেশের আগে বর্তমান ও স্থায়ী ঠিকানা কেন নির্বাচন করতে হয়",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "আবেদনকারীর পরিচয় যাচাইয়ের জন্য নিবন্ধনের সময় দেওয়া বর্তমান ও স্থায়ী ঠিকানার তথ্য নির্বাচন করতে হয়।",
+    "keywords": [
+      "এনআইডি",
+      "অনলাইন",
+      "অ্যাকাউন্টে",
+      "প্রবেশের",
+      "আগে",
+      "বর্তমান",
+      "স্থায়ী",
+      "ঠিকানা",
+      "কেন",
+      "নির্বাচন",
+      "করতে",
+      "আবেদনকারীর"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_216"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_055",
+    "original_doc_id": "nid_cov_055",
+    "domain": "nid",
+    "service": "nid_verification_status",
+    "topic": "nid_verification_status",
+    "title": "পুরাতন ভোটারদের সার্ভার ভেরিফাইড কপি কীভাবে পাওয়া যায়",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "পুরাতন এনআইডি নম্বর ও জন্মতারিখসহ স্থানীয় উপজেলা নির্বাচন অফিসে যোগাযোগ করলে সার্ভার যাচাইকৃত কপি (Server Verified Copy) সংগ্রহ করা যায়।",
+    "keywords": [
+      "পুরাতন",
+      "ভোটারদের",
+      "সার্ভার",
+      "ভেরিফাইড",
+      "কপি",
+      "কীভাবে",
+      "পাওয়া",
+      "এনআইডি",
+      "নম্বর",
+      "জন্মতারিখসহ",
+      "স্থানীয়",
+      "উপজেলা"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_218"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_056",
+    "original_doc_id": "nid_cov_056",
+    "domain": "nid",
+    "service": "name_correction",
+    "topic": "name_correction",
+    "title": "এনআইডিতে নিজের নাম পরিবর্তনের আবেদন করলে কি ব্যক্তিগত শুনানিতে উপস্থিত হতে হয়",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "হ্যাঁ। নিজের নাম পরিবর্তনের আবেদনের ক্ষেত্রে মূল কাগজপত্রসহ ব্যক্তিগত শুনানিতে উপস্থিত হতে হতে পারে।",
+    "keywords": [
+      "এনআইডিতে",
+      "নিজের",
+      "নাম",
+      "পরিবর্তনের",
+      "আবেদন",
+      "করলে",
+      "ব্যক্তিগত",
+      "শুনানিতে",
+      "উপস্থিত",
+      "আবেদনের",
+      "মূল",
+      "কাগজপত্রসহ"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_227"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_057",
+    "original_doc_id": "nid_cov_057",
+    "domain": "nid",
+    "service": "family_marital_correction",
+    "topic": "family_marital_correction",
+    "title": "জীবিত ব্যক্তিকে ভুলক্রমে মৃত হিসেবে উল্লেখ করা হলে এনআইডি কীভাবে সংশোধন করা যায়",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "জীবিত পিতা, মাতা বা স্বামীকে ভুলক্রমে 'মৃত' হিসেবে উল্লেখ করা হলে সংশ্লিষ্ট ব্যক্তির জাতীয় পরিচয়পত্রের কপি জমা দিয়ে সংশোধনের আবেদন করতে হয়।",
+    "keywords": [
+      "জীবিত",
+      "ব্যক্তিকে",
+      "ভুলক্রমে",
+      "মৃত",
+      "হিসেবে",
+      "উল্লেখ",
+      "হলে",
+      "এনআইডি",
+      "কীভাবে",
+      "সংশোধন",
+      "পিতা",
+      "মাতা"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_230"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_058",
+    "original_doc_id": "nid_cov_058",
+    "domain": "nid",
+    "service": "duplicate_reissue",
+    "topic": "duplicate_reissue",
+    "title": "ডুপ্লিকেট এনআইডি নির্ধারিত সময়ে সংগ্রহ না করলে কী হতে পারে",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "বিতরণের জন্য নির্ধারিত তারিখের ৭ দিনের মধ্যে ডুপ্লিকেট পরিচয়পত্র সংগ্রহ না করলে প্রশাসনিক জটিলতা সৃষ্টি হতে পারে।",
+    "keywords": [
+      "ডুপ্লিকেট",
+      "এনআইডি",
+      "নির্ধারিত",
+      "সময়ে",
+      "সংগ্রহ",
+      "করলে",
+      "বিতরণের",
+      "তারিখের",
+      "দিনের",
+      "পরিচয়পত্র",
+      "প্রশাসনিক",
+      "জটিলতা"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_232"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_059",
+    "original_doc_id": "nid_cov_059",
+    "domain": "nid",
+    "service": "nid_services",
+    "topic": "nid_services",
+    "title": "এনআইডিতে নামের আগে পদবী, উপাধি বা খেতাব যুক্ত করা যায় কি",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "না। জাতীয় পরিচয়পত্রে কোনো নামের পূর্বে পদবী, উপাধি বা খেতাব সংযুক্ত করা যায় না।",
+    "keywords": [
+      "এনআইডিতে",
+      "নামের",
+      "আগে",
+      "পদবী",
+      "উপাধি",
+      "খেতাব",
+      "যুক্ত",
+      "জাতীয়",
+      "পরিচয়পত্রে",
+      "কোনো",
+      "পূর্বে",
+      "সংযুক্ত"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_233"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_060",
+    "original_doc_id": "nid_cov_060",
+    "domain": "nid",
+    "service": "nid_online_account_download",
+    "topic": "nid_online_account_download",
+    "title": "এনআইডির সঙ্গে যুক্ত হারিয়ে যাওয়া সিম পুনরায় তুললে কি মোবাইল নম্বর পরিবর্তন করতে হয়",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "না। হারিয়ে যাওয়া সিম একই নম্বরে রিপ্লেসমেন্ট নিলে আগের নম্বরেই OTP গ্রহণ করা যায় এবং মোবাইল নম্বর পরিবর্তনের প্রয়োজন হয় না।",
+    "keywords": [
+      "এনআইডির",
+      "যুক্ত",
+      "হারিয়ে",
+      "যাওয়া",
+      "সিম",
+      "পুনরায়",
+      "তুললে",
+      "মোবাইল",
+      "নম্বর",
+      "পরিবর্তন",
+      "করতে",
+      "একই"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_235"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_061",
+    "original_doc_id": "nid_cov_061",
+    "domain": "nid",
+    "service": "mobile_number_update",
+    "topic": "mobile_number_update",
+    "title": "পুরোনো মোবাইল নম্বর ব্যবহার করা সম্ভব না হলে কী করতে হবে",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "পুরোনো নম্বর ব্যবহার করা সম্ভব না হলে NID Application Services পোর্টালে নতুন মোবাইল নম্বর যুক্ত করতে বা নির্বাচন অফিসের মাধ্যমে নম্বর পরিবর্তনের আবেদন করতে হয়।",
+    "keywords": [
+      "পুরোনো",
+      "মোবাইল",
+      "নম্বর",
+      "ব্যবহার",
+      "সম্ভব",
+      "হলে",
+      "করতে",
+      "nid",
+      "application",
+      "services",
+      "পোর্টালে",
+      "নতুন"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_238"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_062",
+    "original_doc_id": "nid_cov_062",
+    "domain": "nid",
+    "service": "nid_online_account_download",
+    "topic": "nid_online_account_download",
+    "title": "মোবাইল নম্বর পরিবর্তনের সময় NID Wallet অ্যাপ কেন ব্যবহার করতে হয়",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "ব্যবহারকারীর পরিচয় নিশ্চিত করার জন্য NID Wallet অ্যাপের মাধ্যমে লাইভ ফেস ভেরিফিকেশন সম্পন্ন করতে হয়।",
+    "keywords": [
+      "মোবাইল",
+      "নম্বর",
+      "পরিবর্তনের",
+      "সময়",
+      "nid",
+      "wallet",
+      "অ্যাপ",
+      "কেন",
+      "ব্যবহার",
+      "করতে",
+      "ব্যবহারকারীর",
+      "পরিচয়"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_241"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_063",
+    "original_doc_id": "nid_cov_063",
+    "domain": "nid",
+    "service": "contact_support",
+    "topic": "contact_support",
+    "title": "১৭ ডিজিটের এনআইডি নম্বরের শেষ ছয়টি সংখ্যা কী নির্দেশ করে",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "শেষ ছয়টি সংখ্যা ভোটার নিবন্ধনের সময় ব্যবহৃত ফর্ম বা ভোটার সিরিয়ালের শেষ ছয়টি সংখ্যা নির্দেশ করে।",
+    "keywords": [
+      "১৭",
+      "ডিজিটের",
+      "এনআইডি",
+      "নম্বরের",
+      "শেষ",
+      "ছয়টি",
+      "সংখ্যা",
+      "নির্দেশ",
+      "ভোটার",
+      "নিবন্ধনের",
+      "সময়",
+      "ব্যবহৃত"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_249"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_064",
+    "original_doc_id": "nid_cov_064",
+    "domain": "nid",
+    "service": "voter_area_migration",
+    "topic": "voter_area_migration",
+    "title": "এনআইডি নম্বর সঠিক হলে অনলাইনে কী তথ্য দেখা যায়",
+    "source_name": "Bangladesh Election Commission",
+    "source_url": "https://ecs.gov.bd/",
+    "text": "এনআইডি নম্বর সঠিক হলে ভোটারের নাম, ভোটার সিরিয়াল নম্বর, ১০ ডিজিটের NID নম্বর, ১৭ ডিজিটের PIN নম্বর এবং ভোটার এলাকার তথ্য দেখা যায়।",
+    "keywords": [
+      "এনআইডি",
+      "নম্বর",
+      "সঠিক",
+      "হলে",
+      "অনলাইনে",
+      "তথ্য",
+      "দেখা",
+      "ভোটারের",
+      "নাম",
+      "ভোটার",
+      "সিরিয়াল",
+      "১০"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_256"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_065",
+    "original_doc_id": "nid_cov_065",
+    "domain": "nid",
+    "service": "occupation_correction",
+    "topic": "occupation_correction",
+    "title": "চাকরিজীবী হলে এনআইডিতে পেশা পরিবর্তনের জন্য কী কাগজপত্র জমা দেওয়া যায়",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "নিয়োগপত্র, অফিস আইডি কার্ড অথবা প্রতিষ্ঠানের প্রত্যয়নপত্র জমা দেওয়া যায়।",
+    "keywords": [
+      "চাকরিজীবী",
+      "হলে",
+      "এনআইডিতে",
+      "পেশা",
+      "পরিবর্তনের",
+      "কাগজপত্র",
+      "জমা",
+      "দেওয়া",
+      "নিয়োগপত্র",
+      "অফিস",
+      "আইডি",
+      "কার্ড"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_269"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_066",
+    "original_doc_id": "nid_cov_066",
+    "domain": "nid",
+    "service": "overseas_voter_registration",
+    "topic": "overseas_voter_registration",
+    "title": "এনআইডি নবায়নের আবেদন কীভাবে করা যায়",
+    "source_name": "Bangladesh Election Commission — NID Rules",
+    "source_url": "https://ecs.gov.bd/en/page/rules-and-amendments-related-to-nid-2327652270",
+    "text": "নির্ধারিত ফর্ম পূরণ করে সরাসরি নির্বাচন অফিসে অথবা নির্বাচন কমিশনের অনলাইন সেবার মাধ্যমে আবেদন করা যায়।",
+    "keywords": [
+      "এনআইডি",
+      "নবায়নের",
+      "আবেদন",
+      "কীভাবে",
+      "নির্ধারিত",
+      "ফর্ম",
+      "পূরণ",
+      "সরাসরি",
+      "নির্বাচন",
+      "অফিসে",
+      "অথবা",
+      "কমিশনের"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_278"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_067",
+    "original_doc_id": "nid_cov_067",
+    "domain": "nid",
+    "service": "fee_payment",
+    "topic": "fee_payment",
+    "title": "এনআইডি নবায়নের সময় কি ফি পরিশোধ করতে হয়",
+    "source_name": "Bangladesh Election Commission — NID Rules",
+    "source_url": "https://ecs.gov.bd/en/page/rules-and-amendments-related-to-nid-2327652270",
+    "text": "হ্যাঁ। এনআইডি নবায়নের জন্য নির্ধারিত ফি পরিশোধ করতে হয়।",
+    "keywords": [
+      "এনআইডি",
+      "নবায়নের",
+      "সময়",
+      "ফি",
+      "পরিশোধ",
+      "করতে",
+      "নির্ধারিত"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_279"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_068",
+    "original_doc_id": "nid_cov_068",
+    "domain": "nid",
+    "service": "fee_payment",
+    "topic": "fee_payment",
+    "title": "সাধারণ এনআইডি নবায়নের আবেদন কোথায় জমা দিতে হয়",
+    "source_name": "Bangladesh Election Commission — NID Rules",
+    "source_url": "https://ecs.gov.bd/en/page/rules-and-amendments-related-to-nid-2327652270",
+    "text": "সাধারণ নবায়নের আবেদন সংশ্লিষ্ট স্থানীয় নির্বাচন অফিসে জমা দিতে হয়।",
+    "keywords": [
+      "সাধারণ",
+      "এনআইডি",
+      "নবায়নের",
+      "আবেদন",
+      "কোথায়",
+      "জমা",
+      "দিতে",
+      "সংশ্লিষ্ট",
+      "স্থানীয়",
+      "নির্বাচন",
+      "অফিসে"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_281"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_069",
+    "original_doc_id": "nid_cov_069",
+    "domain": "nid",
+    "service": "overseas_voter_registration",
+    "topic": "overseas_voter_registration",
+    "title": "বাংলাদেশ নির্বাচন কমিশনের NID কল সেন্টারের নম্বর কত",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "বাংলাদেশ নির্বাচন কমিশনের জাতীয় পরিচয়পত্র (NID) কল সেন্টারের নম্বর ১০৫।",
+    "keywords": [
+      "বাংলাদেশ",
+      "নির্বাচন",
+      "কমিশনের",
+      "nid",
+      "কল",
+      "সেন্টারের",
+      "নম্বর",
+      "কত",
+      "জাতীয়",
+      "পরিচয়পত্র",
+      "১০৫"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_286"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_070",
+    "original_doc_id": "nid_cov_070",
+    "domain": "nid",
+    "service": "fee_payment",
+    "topic": "fee_payment",
+    "title": "কুমিল্লা আঞ্চলিক নির্বাচন অফিসের যোগাযোগ নম্বর কত",
+    "source_name": "Bangladesh Election Commission",
+    "source_url": "https://ecs.gov.bd/",
+    "text": "কুমিল্লা আঞ্চলিক নির্বাচন অফিসের যোগাযোগ নম্বর: 081-74291।",
+    "keywords": [
+      "কুমিল্লা",
+      "আঞ্চলিক",
+      "নির্বাচন",
+      "অফিসের",
+      "যোগাযোগ",
+      "নম্বর",
+      "কত",
+      "081-74291"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_289"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_071",
+    "original_doc_id": "nid_cov_071",
+    "domain": "nid",
+    "service": "biometric",
+    "topic": "biometric",
+    "title": "ভোটার নিবন্ধনের সময় আবেদনকারীকে কী দেওয়া হয়",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "ভোটার নিবন্ধন ফরম পূরণের পর আবেদনকারীকে নির্ধারিত দিনে ছবি ও বায়োমেট্রিক তথ্য প্রদানের জন্য একটি স্লিপ দেওয়া হয়।",
+    "keywords": [
+      "ভোটার",
+      "নিবন্ধনের",
+      "সময়",
+      "আবেদনকারীকে",
+      "দেওয়া",
+      "নিবন্ধন",
+      "ফরম",
+      "পূরণের",
+      "পর",
+      "নির্ধারিত",
+      "দিনে",
+      "ছবি"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_300"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_072",
+    "original_doc_id": "nid_cov_072",
+    "domain": "nid",
+    "service": "legal_safety",
+    "topic": "legal_safety",
+    "title": "একই ব্যক্তি একাধিকবার ভোটার নিবন্ধন করলে কীভাবে শনাক্ত করা হয়",
+    "source_name": "Bangladesh Election Commission / National ID Wing",
+    "source_url": "https://services.nidw.gov.bd/nid-pub/",
+    "text": "বায়োমেট্রিক মিলিয়ে একাধিক নিবন্ধন শনাক্ত করে তা বাতিল করা হয়।",
+    "keywords": [
+      "একই",
+      "ব্যক্তি",
+      "একাধিকবার",
+      "ভোটার",
+      "নিবন্ধন",
+      "করলে",
+      "কীভাবে",
+      "শনাক্ত",
+      "বায়োমেট্রিক",
+      "মিলিয়ে",
+      "একাধিক",
+      "তা"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_304"
+    ]
+  },
+  {
+    "doc_id": "nid_cov_073",
+    "original_doc_id": "nid_cov_073",
+    "domain": "nid",
+    "service": "voter_list",
+    "topic": "voter_list",
+    "title": "যোগ্য হওয়া সত্ত্বেও ভোটার তালিকায় নাম না থাকলে কোথায় আবেদন করতে হয়",
+    "source_name": "Bangladesh Election Commission",
+    "source_url": "https://ecs.gov.bd/",
+    "text": "যোগ্য ব্যক্তি ভোটার তালিকায় নাম না থাকলে নির্ধারিত ফরমে জেলা নির্বাচন কর্মকর্তার কাছে আবেদন করতে পারেন।",
+    "keywords": [
+      "যোগ্য",
+      "হওয়া",
+      "সত্ত্বেও",
+      "ভোটার",
+      "তালিকায়",
+      "নাম",
+      "থাকলে",
+      "কোথায়",
+      "আবেদন",
+      "করতে",
+      "ব্যক্তি",
+      "নির্ধারিত"
+    ],
+    "last_checked": "2026-08-01",
+    "coverage_type": "benchmark_aligned_source_passage",
+    "supported_qa_ids": [
+      "nid_307"
+    ]
   }
 ]
